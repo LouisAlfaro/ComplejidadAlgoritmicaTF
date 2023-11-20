@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SearchingAnimes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        video {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            z-index: -1;
+            transform: translateX(-50%) translateY(-50%);
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            padding: 10px;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: #fff;
+        }
+
+        nav img {
+            width: 30px;
+            height: 30px;
+            margin-right: 10px;
+            border-radius: 50%;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        nav li {
+            margin-right: 20px;
+        }
+
+        .search-container {
+            text-align: center;
+            max-width: 400px;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-container input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .search-container input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .search-container input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        .anime-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: rgba(255, 255, 255, 0.5); /* Fondo semi-transparente */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .anime-card img {
+            width: 300px;
+            border-radius: 4px;
+        }
+
+        .anime-card h3 {
+            margin-top: 19px;
+        }
+
+        .anime-card p {
+            margin: 8px 0;
+        }
+        #main-container {
+            overflow-y: auto;
+        }
+
+        
+
+/* Estilo para la sección de búsqueda de animes por género */
+        .search-container {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+/* Estilo para la sección de recomendaciones */
+        .recommendations-container {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+/* Estilo para la tarjeta de anime */
+        .anime-card {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        
+        /*Sus*/
+        .Subscriptions {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5); /* Fondo semi-transparente */;
+    margin-top: 20px;
+            margin-bottom: 20px;
+}
+
+.Subscriptions h2{
+    color:#f4f4f4;
+}
+
+.subscription-cards {
+    display: flex;
+    margin-top: 30px;
+}
+  
+.card {
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    margin: 40px 0; /* Cambiamos el margen para dar más espacio vertical entre las tarjetas */
+    text-align: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+  
+.card img {
+    max-width: 200px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+}
+  
+.card h2 {
+    color: red;
+}
+  
+.card p {
+    color: #555;
+}
+  
+.card.premium {
+    background-color: #f9e8b2;
+}
+  
+.card.enterprise {
+    background-color: #b5e0e8;
+}
+  
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.Subscriptions{
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+
+    .subscription-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: stretch;
+        margin-top: 30px;
+    }
+    
+    .card {
+        width: calc(33.33% - 20px);
+        margin: 10px;
+    }
+
+    /*xd */
+
+
+    </style>
+</head>
+<body>
+    <nav>
+    <div>
+        
+        <ul>
+            <li><a href="https://www.facebook.com/?locale=es_LA"><img src="https://media.discordapp.net/attachments/610911183339388978/1175859232181080156/fb_icon_325x325.png?ex=656cc33f&is=655a4e3f&hm=ff7252e08dc94030878f33c723e8b2353bbe0330fae6418bc409df5a9b3db5f5&=" alt="Icono"></a></li>
+            <li><a href="https://about.twitter.com/es"><img src="https://media.discordapp.net/attachments/610911183339388978/1175861369267048568/rQYXqS5v-F1ySdm9WYAIbjHo-1024x1024.png?ex=656cc53c&is=655a503c&hm=76fe277ee875b9c159f050bc2607c5d21b280437a9bf97d594c3d89ab5ef4c4e&=&width=676&height=676" alt="Icono"></a></li>
+            <li><a href="https://www.instagram.com/"><img src="https://media.discordapp.net/attachments/610911183339388978/1175861428499005491/1200px-Instagram_logo_2022.png?ex=656cc54b&is=655a504b&hm=fc89fed5d4c54e8eefdd6d2660b34a70af8bb5cb9f81e515438f51c679e4278f&=&width=676&height=676" alt="Icono"></a></li>
+        </ul>
+    </div>
+    <div>
+        <img src="https://media.discordapp.net/attachments/610911183339388978/1175862560671674389/pngtree-man-wearing-glasses-cartoon-cute-kawaii-anime-illustration-clip-art-character-png-image_9953840.png?ex=656cc658&is=655a5158&hm=6f36ffed819068fa356a2e884992e83bfecb0dbc6014fa8eeb6d2306c376dfb9&=" alt="Tu Imagen de Perfil">
+        <span>Usuario OtakuXD</span>
+    </div>
+</nav>
+</body>
+<body>
+
+    <video autoplay muted loop>
+        <source src="Video/video.mp4" type="video/mp4">
+    </video>
+
+
+    <div class="search-container">
+        <h2>Busca tu anime favorito</h2>
+        <form id="searchForm">
+            <input type="text" name="search" placeholder="Nombre del anime"  id="anime-search">
+            <br>
+            <input type="submit" value="Buscar">
+        </form>
+
+        
+        <!-- Formulario para búsqueda por ID -->
+        <h2>Buscar por ID</h2>
+        <form id="idSearchForm">
+            <input type="text" name="animeId" placeholder="ID del anime" id="anime-id-search">
+            <br>
+            <input type="submit" value="Buscar por ID">
+        </form>
+
+    </div>
+    
+    <div id="animes-container">
+        <!-- Tarjeta de Anime 1 -->
+        <div class="anime-card" >
+            <h3>ANIME DE LA SEMANA!!!!!!!!!!!!!!!!</h3>
+            <img src="https://media.discordapp.net/attachments/610911183339388978/1175914912405532692/GHUBEOR7WNA6ZHJ3HR4DTJHCMY.png?ex=656cf71a&is=655a821a&hm=dc683d205d2fdadaf77c34a90d6c95e1f8a11fa986940240b07224fbc8692281&=" alt="Anime 1">
+            <h3>Kimetsu no Yaiba</h3>
+            <p>Autor: Koyoharu Gotouge</p>
+            <p>Descripción: DEMON SLAYER presenta a un chico que inesperadamente se ve obligado a aprender a matar demonios para salvar lo que queda de su familia. El bondadoso Tanjiro vende carbón a la gente del pueblo para ayudar a su familia tras la muerte de su padre.</p>
+        </div>
+    </div>
+   
+    <script>
+        document.getElementById('searchForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            
+            const searchTerm = document.getElementById('anime-search').value;
+            console.log('Formulario enviado!');
+            fetch(`http://127.0.0.1:8000/anime/name/${encodeURIComponent(searchTerm)}`, {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                
+                // Puedes enviar más parámetros en el cuerpo de la solicitud si es necesario
+                // body: JSON.stringify({ key: 'value' }),
+            })
+            .then(response => response.json())
+            .then(anime => mostrarCardAnime(anime))
+            .catch(error => console.error('Error al buscar el anime:', error));
+        });
+
+        // Evento para búsqueda por ID
+        document.getElementById('idSearchForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            const animeId = document.getElementById('anime-id-search').value;
+            fetch(`http://127.0.0.1:8000/anime/id/${encodeURIComponent(animeId)}`)
+                .then(response => response.json())
+                .then(anime => mostrarCardAnime(anime))
+                .catch(error => console.error('Error al buscar el anime por ID:', error));
+        });
+
+        
+
+        function mostrarCardAnime(anime) {
+            console.log("anime123: "+anime);
+            const animesContainer = document.getElementById('animes-container');
+            animesContainer.innerHTML = ''; // Limpiar el contenedor 
+            
+
+            // Crear y agregar tarjeta del anime al contenedor
+            const animeCard = document.createElement('div');
+            animeCard.classList.add('anime-card');
+
+            const image = document.createElement('img');
+            image.src = `${anime.anime.Image_URL}`; // Asumiendo que tienes imágenes numeradas
+            image.alt = anime.Name;
+
+            const title = document.createElement('h3');
+            title.textContent = anime.nombre;
+
+            const author = document.createElement('p');
+            author.textContent = `Autor: ${anime.anime.Name}`;
+
+            const description = document.createElement('p');
+            description.textContent = `Synopsis : ${anime.anime.Synopsis}`;
+
+
+
+            animeCard.appendChild(image);
+            animeCard.appendChild(title);
+            animeCard.appendChild(author);
+            animeCard.appendChild(description);
+
+            animesContainer.appendChild(animeCard);
+        }
+
+    </script>
+
+<div class="search-container">
+    <h2>Recomendaciones</h2>
+    <form id="recomendationForm">
+        <input type="text" name="anime1" placeholder="Primer anime" id="anime1">
+        <input type="text" name="anime2" placeholder="Segundo anime" id="anime2">
+        <br>
+        <input type="submit" value="Recomendation">
+    </form>
+</div>
+
+
+<script>
+   document.getElementById('recomendationForm').addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    const anime1 = document.getElementById('anime1').value;
+    const anime2 = document.getElementById('anime2').value;
+
+    // Construir la URL con ambos nombres de animes
+    const url = `http://127.0.0.1:8000/anime/two_recomend/${encodeURIComponent(anime1)}/${encodeURIComponent(anime2)}`;
+
+    console.log('Formulario enviado!');
+    fetch(url, {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+    })
+    .then(response => response.json())
+    .then(anime => mostrarCardAnimeRecomendation(anime))
+    .catch(error => console.error('Error al buscar el anime:', error));
+});
+
+
+function mostrarCardAnimeRecomendation(anime) {
+    console.log("Respuesta del servidor:", anime);
+
+    const animesContainer = document.getElementById('animes-container');
+    animesContainer.innerHTML = ''; // Limpiar el contenedor 
+
+    // Verificar si hay animes encontrados
+    if (anime && anime.animes_encontrados && anime.animes_encontrados.length > 0) {
+
+        // Iterar sobre cada anime encontrado y crear tarjeta para cada uno
+        anime.animes_encontrados.forEach(animeEncontrado => {
+            // Crear y agregar tarjeta del anime al contenedor
+            const animeCard = document.createElement('div');
+            animeCard.classList.add('anime-card');
+
+            const image = document.createElement('img');
+            image.src = animeEncontrado.Image_URL;
+            image.alt = animeEncontrado.Name;
+
+            const title = document.createElement('h3');
+            title.textContent = animeEncontrado.Name;
+
+            const score = document.createElement('p');
+            score.textContent = `Score: ${animeEncontrado.Score}`;
+
+            const genres = document.createElement('p');
+            genres.textContent = `Genres: ${animeEncontrado.Genres}`;
+
+            const synopsis = document.createElement('p');
+            synopsis.textContent = `Synopsis: ${animeEncontrado.Synopsis}`;
+
+            animeCard.appendChild(image);
+            animeCard.appendChild(title);
+            animeCard.appendChild(score);
+            animeCard.appendChild(genres);
+            animeCard.appendChild(synopsis);
+
+            animesContainer.appendChild(animeCard);
+        });
+
+    } else {
+        console.error('No se encontraron animes o la estructura de la respuesta no es la esperada.');
+        // Puedes manejar este caso mostrando un mensaje de error al usuario o realizando alguna acción específica.
+    }
+}
+
+
+</script>
+
+
+<section id="Subscriptions" class="Subscriptions" aria-label="Subscription Plans">
+    <h2>Gracias por la visita uwu</h2>
+    <h2>Datos Curiosos de los animes owo</h2>
+    <div class="subscription-cards">
+      <div class="card">
+        <img src="https://media.discordapp.net/attachments/610911183339388978/1175946747089002616/actualidad_411471952_130594134_473x550.png?ex=656d14c0&is=655a9fc0&hm=a9e5e28a2c2a487fd9097c2229ac813da0cd32e830444a430fdbf73ec0ab7b94&=" alt="Free Subscription">
+        <h3>Akira</h3>
+        <p>Akira fue el principal pionero a la hora de presentar el anime en el mundo occidental, en el año 1998. Su espectacular ciencia ficción e historia poco predecible hicieron de este anime algo completamente inolvidable</p>
+      </div>
+      <div class="card premium">
+        <img src="https://media.discordapp.net/attachments/610911183339388978/1175948211349893140/6FUBT6XQXNHHNFOMCHIT7I34NA.png?ex=656d161d&is=655aa11d&hm=2529392551c5fc63e2b6bd8e015680d0fe322c464558f4aa8ad394c258bb317e&=" alt="Premium Subscription">
+        <h3>Dragon Ball Z</h3>
+        <p>¿Sabias que Gokú ha realizado un total de 97 veces su popular ataque llamado KAMEHAMEHA?</p>
+      </div>
+      <div class="card enterprise">
+        <img src="https://media.discordapp.net/attachments/610911183339388978/1175949136110047272/TIpvl29.png?ex=656d16fa&is=655aa1fa&hm=39641d36dee9d5e6e2df7deb0ea11a9b804519e43d84348ea91fb3566abf1b04&=" alt="Enterprise Subscription">
+        <h3>One Piece</h3>
+        <h2></h2>
+        <p>Luffy de One Piece no se separa nunca de su sombrero de paja</p>
+      </div>
+    </div>
+  </section>
+
+
+  <div class="search-container">
+    <h2>Busca tu anime favorito por el género!</h2>
+    <form id="searchGenderForm">
+        <input type="text" name="search" placeholder="Nombre del genero"  id="anime-searchGenderForm">
+        <br>
+        <input type="submit" value="Buscar">
+    </form>
+
+
+    
+</div>
+
+<script>
+    document.getElementById('searchGenderForm').addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    const searchTerm = document.getElementById('anime-searchGenderForm').value;
+    console.log('Formulario enviado! Término de búsqueda por género:', searchTerm);
+
+    fetch(`http://127.0.0.1:8000/anime/genre/${encodeURIComponent(searchTerm)}`, {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+    })
+    .then(response => response.json())
+    .then(anime => mostrarCardGenero(anime))  // <-- Aquí cambié el nombre de la función para que coincida con la que defines más abajo
+    .catch(error => console.error('Error al buscar el anime:', error));
+});
+
+function mostrarCardGenero(anime) {
+    console.log("anime123: " + anime);
+
+    const animesContainer = document.getElementById('animes-container');
+    animesContainer.innerHTML = ''; // Limpiar el contenedor 
+
+    // Verificar si hay animes encontrados
+    if (anime && anime.animes && anime.animes.length > 0) {
+
+        // Iterar sobre cada anime encontrado y crear tarjeta para cada uno
+        anime.animes.forEach(animes => {
+            // Crear y agregar tarjeta del anime al contenedor
+            const animeCard = document.createElement('div');
+            animeCard.classList.add('anime-card');
+
+            const image = document.createElement('img');
+            image.src = animes.Image_URL;
+            image.alt = animes.Name;
+
+            const title = document.createElement('h3');
+            title.textContent = animes.Name;
+
+            const score = document.createElement('p');
+            score.textContent = `Score: ${animes.Score}`;
+
+            const genres = document.createElement('p');
+            genres.textContent = `Genres: ${animes.Genres}`;
+
+            const synopsis = document.createElement('p');
+            synopsis.textContent = `Synopsis: ${animes.Synopsis}`;
+
+            animeCard.appendChild(image);
+            animeCard.appendChild(title);
+            animeCard.appendChild(score);
+            animeCard.appendChild(genres);
+            animeCard.appendChild(synopsis);
+
+            animesContainer.appendChild(animeCard);
+        });
+
+    } else {
+        console.error('No se encontraron animes o la estructura de la respuesta no es la esperada.');
+        // Puedes manejar este caso mostrando un mensaje de error al usuario o realizando alguna acción específica.
+    }
+}
+    </script>
+
+</body>
+</html>

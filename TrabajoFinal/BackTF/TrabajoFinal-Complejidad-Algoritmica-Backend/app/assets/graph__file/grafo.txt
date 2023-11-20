@@ -1,0 +1,1500 @@
+Cowboy Bebop: {}
+Cowboy Bebop: Tengoku no Tobira: {}
+Trigun: {}
+Witch Hunter Robin: {}
+Bouken Ou Beet: {}
+Eyeshield 21: {}
+Hachimitsu to Clover: {}
+Hungry Heart: Wild Striker: {}
+Initial D Fourth Stage: {}
+Monster: {}
+Naruto: {}
+One Piece: {}
+Tennis no Ouji-sama: {}
+Ring ni Kakero 1: {}
+School Rumble: {}
+Sunabouzu: {}
+Texhnolyze: {}
+Trinity Blood: {}
+Yakitate!! Japan: {}
+Zipang: {}
+Neon Genesis Evangelion: {}
+Neon Genesis Evangelion: Death & Rebirth: {'Kidou Senshi Gundam: Gyakushuu no Char': 1.0}
+Neon Genesis Evangelion: The End of Evangelion: {}
+Kenpuu Denki Berserk: {}
+Koukaku Kidoutai: {}
+Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen: {}
+Rurouni Kenshin: Meiji Kenkaku Romantan: {}
+Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka: {}
+Akira: {}
+.hack//Sign: {}
+Aa! Megami-sama!: {}
+Aa! Megami-sama! (TV): {}
+Tenshi Kinryouku: {}
+Kidou Tenshi Angelic Layer: {}
+Ai Yori Aoshi: {}
+Appleseed (Movie): {}
+Arc the Lad: {}
+Avenger: {}
+Beck: {}
+Blue Gender: {}
+Chobits: {}
+Chrno Crusade: {}
+D.N.Angel: {}
+D.C.: Da Capo: {}
+DearS: {}
+Rozen Maiden: {}
+Rozen Maiden: Träumend: {"Mahou Shoujo Lyrical Nanoha A's": 1.0}
+Azumanga Daiou The Animation: {}
+Basilisk: Kouga Ninpou Chou: {}
+Black Cat (TV): {}
+Cluster Edge: {}
+Full Metal Panic!: {}
+Full Metal Panic? Fumoffu: {}
+Full Metal Panic! The Second Raid: {}
+Gakuen Alice: {}
+Soukyuu no Fafner: Dead Aggressor: {}
+Mahou Shoujo Lyrical Nanoha: {}
+Mahou Shoujo Lyrical Nanoha A's: {'Rozen Maiden: Träumend': 1.0}
+Shuffle!: {}
+Kidou Senshi Gundam: {}
+Kidou Senshi Gundam: Dai 08 MS Shoutai: {}
+Kidou Senshi Gundam 0080: Pocket no Naka no Sensou: {}
+Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report: {}
+Kidou Senshi Gundam 0083: Stardust Memory: {}
+Kidou Senshi Zeta Gundam: {}
+Kidou Senshi Gundam ZZ: {}
+Kidou Senshi Gundam: Gyakushuu no Char: {'Neon Genesis Evangelion: Death & Rebirth': 1.0}
+Kidou Senshi Gundam F91: {}
+Kidou Senshi Victory Gundam: {}
+Shin Kidou Senki Gundam Wing: {}
+Shin Kidou Senki Gundam Wing: Endless Waltz: {}
+Kidou Shinseiki Gundam X: {}
+Kidou Senshi Gundam SEED: {}
+Kidou Senshi Gundam SEED Destiny: {}
+Turn A Gundam: {}
+Kidou Butouden G Gundam: {}
+Last Exile: {}
+Mai-HiME: {}
+Mai-Otome: {}
+Shin Shirayuki-hime Densetsu Prétear: {'Kamisama Kazoku': 0.8}
+Air: {}
+Aishiteruze Baby★★: {}
+Akazukin Chacha: {}
+Ayashi no Ceres: {}
+Boys Be...: {}
+Hana yori Dango: {}
+Ou Dorobou Jing: {}
+Ou Dorobou Jing in Seventh Heaven: {}
+Bakuretsu Tenshi: {}
+Chuuka Ichiban!: {}
+Corrector Yui: {}
+Chou Henshin Cosprayers: {}
+Uchuu no Stellvia: {}
+Sakigake!! Cromartie Koukou: {}
+El Hazard: The Alternative World: {}
+El Hazard: The Wanderers: {'Tales of Eternia The Animation': 0.8}
+El Hazard: The Magnificent World: {}
+El Hazard 2: The Magnificent World: {}
+Final Approach: {}
+Fruits Basket: {}
+Fullmetal Alchemist: {}
+Full Moon wo Sagashite: {}
+Fushigi Yuugi: {'Magic Knight Rayearth II': 0.8}
+Fushigi Yuugi: Eikouden: {'Fushigi Yuugi: Dai Ni Bu': 0.8}
+Futakoi: {}
+Futakoi Alternative: {}
+Gate Keepers: {}
+Gate Keepers 21: {}
+Gensoumaden Saiyuuki: {}
+Saiyuuki Reload: {}
+Saiyuuki Reload Gunlock: {}
+GetBackers: {}
+Green Green: {}
+Gunslinger Girl: {}
+Hikaru no Go: {}
+Hunter x Hunter: {}
+Hunter x Hunter: Original Video Animation: {}
+Hunter x Hunter: Greed Island: {}
+Hunter x Hunter: Greed Island Final: {}
+Jinki:Extend: {}
+Kamikaze Kaitou Jeanne: {}
+Kannazuki no Miko: {}
+Kanon: {}
+Kareshi Kanojo no Jijou: {}
+Kono Minikuku mo Utsukushii Sekai: {}
+Kimi ga Nozomu Eien: {}
+Kita e.: Diamond Dust Drops: {}
+Loveless: {}
+Blood+: {}
+Re: Cutey Honey: {}
+Solty Rei: {}
+Juuni Kokuki: {}
+Shaman King: {}
+X/1999: {}
+X: {}
+Mahou Sensei Negima!: {'Girls Bravo: Second Season': 0.83}
+Maria-sama ga Miteru: {}
+Boukyaku no Senritsu: {}
+Ima, Soko ni Iru Boku: {}
+Peace Maker Kurogane: {}
+Pita Ten: {}
+Power Stone: {}
+Mononoke Hime: {}
+RahXephon: {}
+Samurai 7: {}
+Scrapped Princess: {}
+s.CRY.ed: {'Argento Soma': 0.8}
+Shingetsutan Tsukihime: {}
+Slam Dunk: {}
+Strange Dawn: {}
+Tactics: {}
+Tenjou Tenge: {}
+Tokyo Underground: {}
+Triangle Heart: Sweet Songs Forever: {}
+Tsubasa Chronicle: {}
+Ultra Maniac: {}
+Ultra Maniac OVA: {}
+Vandread: {}
+Vandread: The Second Stage: {}
+Tenkuu no Escaflowne: {}
+Whistle!: {}
+Xenosaga The Animation: {}
+Initial D First Stage: {}
+Initial D Second Stage: {}
+Initial D Third Stage: {}
+Gosenzo San'e: {}
+Love Hina: {}
+Love Hina Again: {'Ranma ½: Yomigaeru Kioku': 0.8}
+Love Hina Christmas Special: Silent Eve: {}
+Love Hina Haru Special: Kimi Sakura Chiru Nakare!!: {}
+Maburaho: {}
+Macross Zero: {}
+Onegai☆Teacher: {}
+Onegai☆Twins: {}
+Rizelmine: {}
+Speed Grapher: {}
+Sen to Chihiro no Kamikakushi: {}
+Tenshi na Konamaiki: {}
+Video Girl Ai: {'Guardian Hearts': 0.8}
+Wolf's Rain: {}
+Words Worth: {}
+Yumeria: {}
+Samurai Champloo: {}
+Lodoss-tou Senki: Eiyuu Kishi Den: {}
+Lodoss-tou Senki: {'Legend of Crystania': 0.8, 'Legend of Lemnear: Kyokuguro no Tsubasa Valkisas': 1.0}
+R.O.D: Read or Die: {}
+R.O.D: The TV: {'Generator Gawl': 0.83}
+Ranma ½: {}
+Pure Mail: {'Ai Shimai: Futari no Kajitsu': 1.0, 'MaMa': 1.0, 'Mizuiro': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0}
+Project A-Ko: {'Armitage III: Dual-Matrix': 0.8, 'eX-Driver the Movie': 1.0, 'Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen': 0.83}
+Pia Carrot e Youkoso!!: {}
+Pia Carrot e Youkoso!! 2: {}
+Pia Carrot e Youkoso!! 2 DX: {}
+Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari: {}
+Shin Angel: {'Green Green Thirteen: Erolutions': 0.8, 'Ranma ½: Yomigaeru Kioku': 0.8}
+Kidou Senkan Nadesico: {}
+Kidou Senkan Nadesico: The Prince of Darkness: {}
+Kuro no Danshou: {}
+Mezzo Forte: {'Tetsuwan Birdy': 0.8}
+Mezzo DSA: {}
+Dragon Ball: {}
+Dragon Ball GT: {'Legendz: Yomigaeru Ryuuou Densetsu': 0.8}
+Elfen Lied: {}
+FLCL: {'Tenchi Muyou! Ryououki': 0.8}
+Jigoku Shoujo: {}
+Ninin ga Shinobuden: {}
+Air Master: {}
+Asagiri no Miko: {}
+Cardcaptor Sakura: {}
+Daa! Daa! Daa!: {}
+Dan Doh!!: {}
+Detective Conan: {}
+E's Otherwise: {}
+Koukyoushihen Eureka Seven: {}
+Rekka no Honoo: {}
+Gankutsuou: {}
+Genshiken: {}
+Girls Bravo: First Season: {}
+Gokusen: {}
+Gravitation: {}
+Agatha Christie no Meitantei Poirot to Marple: {}
+Great Teacher Onizuka: {}
+Groove Adventure Rave: {}
+Harukanaru Toki no Naka de: Hachiyou Shou: {}
+Ichigo 100%: {}
+InuYasha: {}
+Konjiki no Gash Bell!!: {}
+Kyou kara Maou!: {}
+Madlax: {}
+Jungle wa Itsumo Hare nochi Guu: {}
+Jungle wa Itsumo Hare nochi Guu Deluxe: {}
+Jungle wa Itsumo Hare nochi Guu Final: {}
+Hoshi no Koe: {}
+Ikkitousen: {}
+Hitsuji no Uta: {}
+Happy☆Lesson: {}
+Happy☆Lesson (TV): {}
+Happy☆Lesson Advance: {}
+Happy☆Lesson The Final: {}
+Hajime no Ippo: {}
+Hajime no Ippo: Champion Road: {'Eyeshield 21: Maboroshi no Golden Bowl': 1.0}
+Hajime no Ippo: Mashiba vs. Kimura: {}
+Gunparade March: Arata Naru Kougunka: {}
+Gungrave: {}
+Golden Boy: {}
+Bleach: {}
+Hellsing: {}
+Gad Guard: {}
+Noir: {}
+Mahoutsukai ni Taisetsu na Koto: {}
+Kiddy Grade: {}
+Love♥Love?: {}
+Mahoromatic: Automatic Maiden: {'Shinkon Gattai Godannar!! 2nd Season': 0.8}
+Mahoromatic: Motto Utsukushii Mono: {}
+Viewtiful Joe: {}
+Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari: {}
+Animal Yokochou: {}
+Akane Maniax: {}
+Angel Heart: {}
+Akage no Anne: {}
+Area 88 (TV): {}
+Argento Soma: {'s.CRY.ed': 0.8}
+B'T X: {}
+Grappler Baki (TV): {}
+Bakuten Shoot Beyblade: {}
+Comic Party: {}
+Seikai no Monshou: {}
+D.C.S.S: Da Capo Second Season: {}
+Dear Boys: {}
+Di Gi Charat: {}
+Divergence Eve: {}
+Divergence Eve 2: Misaki Chronicles: {}
+Dragon Drive: {}
+Grenadier: Hohoemi no Senshi: {}
+.hack//Tasogare no Udewa Densetsu: {}
+.hack//Liminality: {}
+3x3 Eyes: {}
+Cinderella Boy: {}
+Mirai Shounen Conan: {}
+Aa! Megami-sama!: Chichaitte Koto wa Benri da ne: {}
+Aa! Megami-sama! Movie: {}
+Abashiri Ikka: {}
+Abenobashi Mahou☆Shoutengai: {}
+Kerokko Demetan: {}
+Zettai Shounen: {}
+Akahori Gedou Hour Rabuge: {}
+Chiisana Obake: Acchi, Kocchi, Socchi: {}
+Ace wo Nerae!: {}
+Ace wo Nerae! Final Stage: {'Ace wo Nerae! 2': 1.0}
+Ace wo Nerae! (1979): {}
+Ace wo Nerae! 2: {'Ace wo Nerae! Final Stage': 1.0}
+Xiao Qian: {}
+Nageki no Kenkou Yuuryouji: {}
+Final Fantasy VII: Advent Children: {}
+Hand Maid May: {}
+Happy World!: {'Futari Ecchi': 0.8}
+A Kite: {}
+Najica Dengeki Sakusen: {}
+Paradise Kiss: {'Lamune': 1.0}
+Mousou Dairinin: {}
+Kidou Keisatsu Patlabor: On Television: {}
+Peach Girl: {}
+Petshop of Horrors: {}
+Puchi Pri*Yucie: {}
+Piano (TV): {}
+Planetes: {}
+Midori no Hibi: {}
+Mahoujin Guruguru: {}
+Dokidoki♡Densetsu: Mahoujin Guruguru: {}
+Mama wa Shougaku 4 Nensei: {}
+Marmalade Boy: {}
+Matantei Loki Ragnarok: {}
+Ginyuu Mokushiroku Meine Liebe: {}
+Psychic Academy: {}
+Versailles no Bara: {}
+Serial Experiments Lain: {}
+Mutsu Enmei Ryuu Gaiden: Shura no Toki: {}
+Spiral: Suiri no Kizuna: {}
+Starship Operators: {}
+Tsukuyomi: Moon Phase: {}
+Futatsu no Spica: {}
+Eikoku Koi Monogatari Emma: {}
+W: Wish: {}
+Wild Arms: Twilight Venom: {}
+Binzume Yousei: {}
+Magical Canan: {}
+Ojamajo Doremi: {}
+Ojamajo Doremi Sharp: {}
+Motto! Ojamajo Doremi: {}
+Ojamajo Doremi Dokkaan!: {}
+UG☆Ultimate Girls: {}
+Shakugan no Shana: {}
+Fate/stay night: {}
+Bokusatsu Tenshi Dokuro-chan: {}
+Iriya no Sora, UFO no Natsu: {}
+I'll/CKBC: {}
+Himiko-den: {}
+Memories Off: {}
+Memories Off 2nd: {}
+Memories Off 3.5: {}
+Gallery Fake: {}
+Fake: {}
+AIKa: {}
+Akazukin Chacha OVA: {}
+Bible Black: {'Sexfriend': 1.0, 'Injuu Gakuen La Blue Girl': 1.0, 'Uba': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0}
+Boogiepop wa Warawanai: {}
+Burn Up Excess: {}
+Cardcaptor Sakura Movie 1: {}
+Cardcaptor Sakura Movie 2: Fuuin Sareta Card: {}
+Bannou Bunka Neko-Musume: {}
+Bannou Bunka Neko-Musume DASH!: {}
+Bannou Bunka Neko-Musume (1998): {}
+Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer: {}
+eX-Driver: {'Mutant Turtles: Choujin Densetsu-hen': 1.0, 'Sol Bianca': 0.8}
+eX-Driver the Movie: {'Project A-Ko': 1.0}
+Heppoko Jikken Animation Excel♥Saga: {}
+Fushigi Yuugi OVA: {}
+Fushigi Yuugi: Dai Ni Bu: {'Fushigi Yuugi: Eikouden': 0.8}
+Futari Ecchi: {"I''s Pure": 0.8, 'Yume de Aetara': 0.8, 'Green Green OVA': 1.0, 'Negima!? Haru Special!?': 0.8, 'Happy World!': 0.8}
+Galaxy Angel: {}
+Gantz: {}
+Gilgamesh: {}
+H2: {}
+Haibane Renmei: {}
+Capeta: {'Idaten Jump': 1.0}
+Karas: {}
+Suzuka: {}
+Tales of Phantasia The Animation: {'Yoroiden Samurai Troopers Gaiden': 1.0}
+Yuu☆Yuu☆Hakusho: {}
+Escaflowne: {}
+Ai Yori Aoshi: Enishi: {}
+Gantz 2nd Stage: {}
+Seikai no Senki: {}
+Seikai no Senki II: {}
+Seikai no Senki III: {}
+Seikai no Senki Special: {}
+Seihou Bukyou Outlaw Star: {'Choujuushin Gravion Zwei': 0.8}
+Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen: {}
+Otogi Juushi Akazukin OVA: {}
+Hanaukyou Maid-tai: {}
+Bastard!! Ankoku no Hakaishin: {}
+Blood: The Last Vampire: {}
+Buzzer Beater: {}
+Tantei Gakuen Q: {}
+Final Fantasy VII: Last Order: {}
+Gun x Sword: {}
+Kore ga Watashi no Goshujinsama: {}
+Hametsu no Mars: {}
+Tonari no Yamada-kun: {}
+Kurenai no Buta: {}
+Ragnarök The Animation: {}
+Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!: {}
+Samurai Deeper Kyou: {}
+Spriggan: {'Sakura Taisen: Katsudou Shashin': 1.0}
+Stratos 4: {}
+Stratos 4 OVA: {'Stratos 4 Advance': 1.0}
+Stratos 4 Advance: {'Tenbatsu Angel Rabbie☆': 1.0, 'Stratos 4 OVA': 1.0}
+Dirty Pair: {}
+Shiritsu Araiso Koutougakkou Seitokai Shikkoubu: {}
+Final Fantasy: {'Hikyou Tanken Fam & Ihrlie': 1.0, 'Unkai no Meikyuu Zeguy': 0.8}
+Kaleido Star: {}
+Kaleido Star: Aratanaru Tsubasa - Extra Stage: {}
+Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari: {}
+Fullmetal Alchemist: The Conqueror of Shamballa: {'Cello Hiki no Gauche (1982)': 0.8}
+Howl no Ugoku Shiro: {}
+Iria: Zeiram The Animation: {'Herlock Saga: Nibelung no Yubiwa': 0.8}
+Kumo no Mukou, Yakusoku no Basho: {}
+Legend of Lemnear: Kyokuguro no Tsubasa Valkisas: {'Lodoss-tou Senki': 1.0}
+Magic Knight Rayearth: {}
+Perfect Blue: {}
+Phantom The Animation: {}
+RG Veda: {}
+Shoujo Kakumei Utena: {}
+Shoujo Kakumei Utena: Adolescence Mokushiroku: {}
+Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!: {'Hajimari no Boukensha-tachi: Legend of Crystania': 0.8, 'One Piece Movie 04: Dead End no Bouken': 1.0, 'One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima': 0.8}
+Onegai☆Teacher: Himitsu na Futari: {}
+Maria-sama ga Miteru: Haru: {}
+Tales of Eternia The Animation: {'El Hazard: The Wanderers': 0.8}
+Weiß Kreuz Glühen: {}
+Weiß Kreuz: {}
+Tenjou Tenge: The Ultimate Fight: {}
+InuYasha Movie 4: Guren no Houraijima: {}
+InuYasha Movie 2: Kagami no Naka no Mugenjo: {'One Piece Movie 07: Karakuri-jou no Mecha Kyohei': 0.8}
+InuYasha Movie 3: Tenka Hadou no Ken: {'One Piece Movie 05: Norowareta Seiken': 0.8, 'One Piece Movie 01': 0.8}
+InuYasha Movie 1: Toki wo Koeru Omoi: {}
+.hack//Gift: {'Ojamajo Doremi Na-i-sho': 1.0}
+Fantastic Children: {}
+Gokujou Seitokai: {}
+Mushishi: {}
+Buttobi!! CPU: {}
+One Piece Movie 01: {'InuYasha Movie 3: Tenka Hadou no Ken': 0.8, 'Tsubasa Chronicle: Tori Kago no Kuni no Himegimi': 0.8, 'Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da': 0.8}
+One Piece Movie 02: Nejimaki-jima no Daibouken: {}
+One Piece Movie 03: Chinjuu-jima no Chopper Oukoku: {}
+One Piece Movie 04: Dead End no Bouken: {'Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!': 1.0, 'One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima': 0.8, 'One Piece Movie 07: Karakuri-jou no Mecha Kyohei': 1.0}
+One Piece Movie 05: Norowareta Seiken: {'InuYasha Movie 3: Tenka Hadou no Ken': 0.8, 'Saint Seiya: Tenkai-hen Josou - Overture': 0.8}
+One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima: {'Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!': 0.8, 'One Piece Movie 04: Dead End no Bouken': 0.8}
+One Piece Movie 07: Karakuri-jou no Mecha Kyohei: {'Saint Seiya: Tenkai-hen Josou - Overture': 0.8, 'Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu': 0.8, 'One Piece Movie 04: Dead End no Bouken': 1.0, 'InuYasha Movie 2: Kagami no Naka no Mugenjo': 0.8}
+One Piece: Taose! Kaizoku Ganzack: {}
+Koukaku Kidoutai: Stand Alone Complex: {}
+Innocence: {}
+Karin: {}
+Okusama wa Joshikousei (TV): {}
+To Heart 2: {}
+To Heart: {}
+Tide-Line Blue: {}
+Macross Plus: {}
+Hotori: Tada Saiwai wo Koinegau: {}
+Ginban Kaleidoscope: {}
+Aria the Animation: {}
+Sousei no Aquarion: {}
+Ueki no Housoku: {}
+Yu☆Gi☆Oh! Duel Monsters: {}
+Yu☆Gi☆Oh! Duel Monsters GX: {}
+Kurau Phantom Memory: {}
+Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka: {}
+Damekko Doubutsu: {}
+Kino no Tabi: The Beautiful World: {}
+Girls Bravo: Second Season: {'Mahou Sensei Negima!': 0.83}
+Ichigo Mashimaro: {}
+Kamichu!: {}
+Paniponi Dash!: {}
+Armitage III: Dual-Matrix: {'Project A-Ko': 0.8, 'Odin: Koushi Hansen Starlight': 0.8, 'Venus Senki': 1.0}
+Armitage III: Poly-Matrix: {}
+Bakuretsu Hunters: {}
+Kamui no Ken: {}
+Yami to Boushi to Hon no Tabibito: {}
+Haja Taisei Dangaiou: {}
+Makai Toshi Shinjuku: {}
+Doraemon: {}
+Dragon Ball Movie 1: Shen Long no Densetsu: {'Pokemon Movie 07: Rekkuu no Houmonsha Deoxys': 0.83, 'Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai': 1.0}
+Eien no Aselia: {}
+Fatal Fury: The Motion Picture: {}
+Fushigiboshi no☆Futagohime: {}
+Glass no Kamen: {}
+Gravitation: Lyrics of Love: {}
+Tottoko Hamtarou: {}
+I My Me! Strawberry Eggs: {}
+Kakyuusei 2: Hitomi no Naka no Shoujo-tachi: {}
+Kidou Shinsengumi Moeyo Ken TV: {}
+Majo no Takkyuubin: {'Neko no Ongaeshi': 0.83}
+Tenkuu no Shiro Laputa: {}
+Cossette no Shouzou: {}
+Hajimari no Boukensha-tachi: Legend of Crystania: {'Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!': 0.8}
+Keroro Gunsou: {}
+School Rumble: Ichi Gakki Hoshuu: {}
+Mahou no Princess Minky Momo: {}
+Mahoraba: Heartful days: {}
+Marmalade Boy Movie: {}
+Mermaid Melody Pichi Pichi Pitch: {}
+Metropolis: {}
+Tonari no Totoro: {}
+Onegai☆Twins: Natsu wa Owaranai: {}
+Otogizoushi: {}
+Boku no Chikyuu wo Mamotte: {}
+Pokemon: {}
+Pokemon Movie 01: Mewtwo no Gyakushuu: {}
+Saishuu Heiki Kanojo: {}
+Bishoujo Senshi Sailor Moon: {}
+Bishoujo Senshi Sailor Moon R: The Movie: {}
+Bishoujo Senshi Sailor Moon S: {}
+Sensei no Ojikan: Dokidoki School Hours: {}
+Slayers: {}
+Slayers Next: {}
+Slayers: The Motion Picture: {'Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan': 0.8}
+Tekken: {}
+Shin Tenchi Muyou!: {}
+Tenchi Muyou! Ryououki: {'FLCL': 0.8}
+Tenchi Muyou! Ryououki 2nd Season: {}
+Tenchi Muyou! Ryououki 3rd Season: {'Mutant Turtles: Choujin Densetsu-hen': 0.8, 'Burn Up! W': 0.8}
+Vampire Hunter D (2000): {}
+Venus Senki: {'Armitage III: Dual-Matrix': 1.0}
+Mousou Kagaku Series: Wandaba Style: {}
+Wind: A Breath of Heart (TV): {}
+Wind: A Breath of Heart OVA: {}
+Wonderful Days: {'RahXephon: Tagen Hensoukyoku': 1.0, 'Windaria': 0.83}
+Yu☆Gi☆Oh!: {}
+Grappler Baki: Saidai Tournament-hen: {}
+Digimon Adventure: {}
+Yami no Matsuei: {}
+Koutetsu Tenshi Kurumi: {}
+Koutetsu Tenshi Kurumi 2: {}
+Koutetsu Tenshi Kurumi Zero: {}
+Koutetsu Tenshi Kurumi Encore: {}
+Major S2: {}
+RahXephon: Kansoukyoku/Kanojo to Kanojo Jishin to - Thatness and Thereness: {}
+Soukyuu no Fafner: Dead Aggressor - Right of Left: {}
+Sakura Taisen: {}
+Sakura Taisen: Le Nouveau Paris: {}
+DNA²: {}
+Puni Puni☆Poemii: {'Stratos 4 Advance Kanketsu-hen': 1.0}
+Steamboy: {'Kidou Senshi Gundam I': 1.0, 'Odin: Koushi Hansen Starlight': 1.0}
+Tetsuwan Birdy: {'Macross 7 Encore': 0.8, 'Saber Marionette J Again': 0.8, 'Mezzo Forte': 0.8}
+The Big O: {}
+Bubblegum Crisis Tokyo 2040: {}
+Musekinin Kanchou Tylor: {}
+Jin-Rou: {}
+Moldiver: {}
+Kaze no Tani no Nausicaä: {}
+Saber Marionette J: {'Seihou Tenshi Angel Links': 0.86}
+Rean no Tsubasa: {}
+Magikano: {}
+Kagi Hime Monogatari: Eikyuu Alice Rondo: {}
+Hotaru no Haka: {}
+Battle Programmer Shirase: {}
+Kogepan: {}
+Honoo no Labyrinth: {}
+Sexy Commando Gaiden: Sugoi yo!! Masaru-san: {}
+Noein: Mou Hitori no Kimi e: {}
+Mimi wo Sumaseba: {}
+Ayakashi: Japanese Classic Horror: {}
+Hanbun no Tsuki ga Noboru Sora: {}
+Itsudatte My Santa!: {}
+Ginga Nagareboshi Gin: {}
+Kage kara Mamoru!: {}
+Amaenaide yo!!: {}
+PopoloCrois: {}
+Mugen no Ryvius: {}
+Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!: {'Bleach: Memories in the Rain': 0.8}
+X OVA: {}
+Chobits: Chibits: {}
+Neko no Ongaeshi: {'Majo no Takkyuubin': 0.83}
+Jinzou Ningen Kikaider The Animation: {}
+Yuugen Kaisha: {'KO Seiki Beast Sanjuushi': 0.83}
+Legend of Duo: {}
+Nekojiru-sou: {}
+KO Seiki Beast Sanjuushi: {'Yuugen Kaisha': 0.83}
+Futari wa Precure: {}
+Mahou no Stage Fancy Lala: {}
+Tenshi ni Narumon!: {}
+Kazemakase Tsukikage Ran: {}
+Otogi Juushi Akazukin: {}
+Sakura Taisen: Katsudou Shashin: {'Saint Seiya: Jashin Eris': 1.0, 'Spriggan': 1.0}
+Saishuu Heiki Kanojo: Another Love Song: {}
+Popotan: {}
+Platonic Chain: {}
+PetoPeto-san: {}
+Onmyou Taisenki: {}
+Okusama wa Mahou Shoujo: {}
+Nurse Witch Komugi-chan Magikarte: {}
+Nurse Angel Ririka SOS: {}
+Juubee Ninpuuchou: {}
+Juubee Ninpuuchou: Ryuuhougyoku-hen: {}
+Ninja Ryuukenden: {}
+Takahashi Rumiko Gekijou Ningyo no Mori: {}
+Night Walker: Mayonaka no Tantei: {}
+Natsu-iro no Sunadokei: {}
+Shichinin no Nana: {}
+Mouse: {}
+Moekan The Animation: {'Baby☆Love': 1.0}
+Mamotte Shugogetten!: {}
+Major S1: {}
+Mahoutsukai Tai!: {}
+Mahoutsukai Tai! (TV): {}
+Mahoromatic Summer Special: {}
+Mahoromatic End Year Special: {}
+Legend of Basara: {}
+Koi Kaze: {}
+Juubee-chan: Lovely Gantai no Himitsu: {}
+Juubee-chan 2: Siberia Yagyuu no Gyakushuu: {}
+Iketeru Futari: {}
+Ichigo 100% Special 2: {}
+Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e: {}
+Hachimitsu to Clover Specials: {}
+Hikaru no Go: Hokuto Hai e no Michi: {}
+Haunted Junction: {}
+Harukanaru Toki no Naka de: Ajisai Yumegatari: {}
+Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary: {}
+Hanaukyou Maid-tai: La Verite: {}
+Gunsmith Cats: {}
+Green Green Thirteen: Erolutions: {'Shin Angel': 0.8}
+Galaxy Angel Z: {}
+Galaxy Angel 3: {}
+Galaxy Angel 3 Specials: {'To Heart: Remember My Memories Specials': 1.0}
+Galaxy Angel 4: {}
+Air in Summer: {}
+Touhai Densetsu Akagi: Yami ni Maiorita Tensai: {}
+Azumanga Daiou: Gekijou Tanpen: {}
+Denshin Mamotte Shugogetten: {'Negima!? Haru Special!?': 0.8}
+Elf-ban Kakyuusei: Anata dake wo Mitsumete...: {"I''s": 1.0}
+Fullmetal Alchemist: Reflections: {}
+JoJo no Kimyou na Bouken: Adventure: {}
+JoJo no Kimyou na Bouken: {}
+Kashimashi: Girl Meets Girl: {}
+Koi Koi 7: {}
+Kujibiki Unbalance: {'The Samurai': 1.0}
+Lamune: {'Paradise Kiss': 1.0}
+Lemon Angel Project: {}
+Mai-HiME Specials: {'Nurse Witch Komugi-chan Magikarte Special': 1.0}
+One: Kagayaku Kisetsu e: {}
+Refrain Blue: {}
+Sentimental Journey: {}
+Shadow Skill: Eigi: {}
+Shadow Skill (1996): {}
+Tenbatsu Angel Rabbie☆: {'Stratos 4 Advance': 1.0, 'Kidou Keisatsu Patlabor': 1.0}
+Otogi Story Tenshi no Shippo: {}
+Otogi Story Tenshi no Shippo Specials: {}
+Tenshi no Shippo Chu!: {}
+To Heart: Remember My Memories: {}
+To Heart: Remember My Memories Specials: {'Galaxy Angel 3 Specials': 1.0}
+Tokyo Mew Mew: {}
+Uta∽Kata: {}
+Uta∽Kata: Shotou no Futanatsu: {}
+Kyuuketsuhime Miyu (TV): {}
+Yawara!: {}
+Dousou Kai: {}
+Burn Up Scramble: {}
+Canvas 2: Nijiiro no Sketch: {}
+Canvas: Sepia-iro no Motif: {}
+Tenchi Muyou!: {}
+Kanon Kazahana: {}
+Chou Henshin Cosprayers vs. Ankoku Uchuu Shougun the Movie: {}
+Comic Party Revolution: {}
+Comic Party Specials: {}
+Patapata Hikousen no Bouken: {}
+Mujin Wakusei Survive: {}
+Rec: {}
+Uchuu Senkan Yamato (Movie): {}
+Zoids Genesis: {}
+Air Movie: {}
+High School! Kimengumi: {}
+Yume de Aetara: {'Futari Ecchi': 0.8}
+Yume de Aetara (TV): {}
+Ai no Kusabi: {'Haru wo Daite Ita': 0.8}
+Princess Tutu: {}
+Baby☆Love: {'Moekan The Animation': 1.0}
+Candy Candy (Movie): {}
+Enzai: {}
+First Kiss Monogatari: {}
+Kingyo Chuuihou!: {}
+Hiatari Ryoukou!: {}
+Houkago no Shokuinshitsu: {}
+Interstella5555: The 5tory of The 5ecret 5tar 5ystem: {}
+Vampire Hunter D: {}
+Kizuna: {}
+Kizuna: Koi no kara Sawagi: {}
+Keiraku no Houteishiki Level-C: {}
+MÄR: {}
+Bishoujo Senshi Sailor Moon R: {}
+Sensitive Pornograph: {}
+Umi ga Kikoeru: {}
+Trouble Chocolate: {}
+Papa to Kiss in the Dark: {}
+Haru wo Daite Ita: {'Ai no Kusabi': 0.8}
+True Love Story: {}
+Nanami-chan: {}
+Binchou-tan: {}
+Bomberman Jetters: {}
+Osakana wa Ami no Naka: {}
+Chijoku Shinsatsushitsu: {}
+Yuki no Joou (TV): {}
+Boku no Sexual Harassment: {}
+School Days ONA: {}
+Kaze wo Mita Shounen: {}
+RahXephon: Tagen Hensoukyoku: {'Wonderful Days': 1.0}
+Tokyo Godfathers: {}
+Tenjou Tenge: The Past Chapter: {}
+Naruto: Akaki Yotsuba no Clover wo Sagase: {}
+Bleach: Memories in the Rain: {'Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!': 0.8}
+Zoids: {}
+Zoids Shinseiki/Zero: {}
+Chou Henshin Cosprayers Specials: {}
+Kishin Houkou Demonbane: {}
+Burn Up!: {'Burn Up! W': 1.0}
+Burn Up! W: {'Tenchi Muyou! Ryououki 3rd Season': 0.8, 'Burn Up!': 1.0, 'Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?': 0.8}
+Pale Cocoon: {'Gunnm': 1.0}
+Ginyuu Mokushiroku Meine Liebe Wieder: {}
+Tenamonya Voyagers: {'VS Knight Lamune & 40 Fresh': 1.0, 'Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa': 0.8}
+Nanaka 6/17: {}
+Hellsing Ultimate: {'Shin Megami Tensei: Tokyo Mokushiroku': 0.8}
+Detective Conan Movie 01: The Timed Skyscraper: {}
+Detective Conan Movie 02: The Fourteenth Target: {}
+Detective Conan Movie 03: The Last Wizard of the Century: {}
+Gasaraki: {}
+Miami Guns: {}
+Otaku no Video: {}
+Pugyuru: {}
+Eiken: Eikenbu yori Ai wo Komete: {}
+Shinigami no Ballad.: {}
+Ergo Proxy: {}
+Arion: {}
+Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!: {}
+xxxHOLiC Movie: Manatsu no Yoru no Yume: {}
+Oniisama e...: {}
+Mahoujin Guru Guru Movie: {'Slayers Premium': 1.0}
+Hanaukyou Maid-tai OVA: {'Ichigo 100% OVA': 1.0}
+Yomigaeru Sora: Rescue Wings: {}
+Kokoro Toshokan: {}
+NieA Under 7: {}
+Koukaku Kidoutai: Stand Alone Complex 2nd GIG: {}
+Tsubasa Chronicle: Tori Kago no Kuni no Himegimi: {'One Piece Movie 01': 0.8}
+Bakuretsu Hunters OVA: {}
+Android Ana Maico 2010: {}
+I''s Pure: {'Futari Ecchi': 0.8, 'Tokyo Daigaku Monogatari': 1.0, 'Kyoukasho ni Nai!': 0.8, 'Guardian Hearts': 0.8}
+Chikyuu Shoujo Arjuna: {}
+Dragon Ball Z: {'Pokemon Advanced Generation': 0.8}
+Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri: {}
+Tennis no Ouji-sama Movie 1: Futari no Samurai - The First Game: {}
+Nanako Kaitai Shinsho: {}
+Tactical Roar: {}
+Sakura Tsuushin: {}
+Boku wa Imouto ni Koi wo Suru: {}
+Ginga Eiyuu Densetsu: {'Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai': 1.0, 'Future GPX Cyber Formula Zero': 1.0, 'Future GPX Cyber Formula Sin': 1.0}
+Initial D Battle Stage: {}
+Initial D Extra Stage: {}
+Virgin Night: {}
+Guardian Hearts: {'Video Girl Ai': 0.8, "I''s Pure": 0.8}
+King of Fighters: Another Day: {}
+Uba: {'Bible Black: New Testament': 1.0, 'Cool Devices': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'Bible Black': 1.0}
+Jinshin Yuugi: {'Sexfriend': 1.0, 'Kurohime: Shikkoku no Yakata': 1.0, 'One: Kagayaku Kisetsu e - True Stories': 1.0}
+Sexfriend: {'Jinshin Yuugi': 1.0, 'Bible Black': 1.0}
+Chicchana Yukitsukai Sugar: {}
+Ginsoukikou Ordian: {}
+Choujuushin Gravion: {}
+Bleach: The Sealed Sword Frenzy: {}
+Sister Princess: Re Pure: {}
+Sister Princess: {}
+Kyou no 5 no 2: {}
+Narutaru: Mukuro Naru Hoshi Tama Taru Ko: {}
+Samurai Spirits 2: Asura Zanmaden: {}
+Narue no Sekai: {}
+Colorful: {}
+Ushio to Tora: {}
+Konjiki no Gash Bell!!: 101 Banme no Mamono: {}
+Kiba: {}
+School Rumble Ni Gakki: {}
+Jinki:Extend - Sorekara: {}
+Suzumiya Haruhi no Yuuutsu: {}
+Gakuen Heaven: {}
+Kyou kara Ore wa!!: {}
+Gokinjo Monogatari: {}
+Ouran Koukou Host Club: {}
+Soul Link: {}
+Strawberry Panic: {'Simoun': 0.8}
+Utawarerumono: {}
+Air Gear: {}
+Gunparade Orchestra: {}
+Digimon Savers: {}
+Makai Senki Disgaea: {}
+xxxHOLiC: {}
+Joshikousei: Girl's High: {}
+Kidou Senshi Gundam SEED MSV Astray: {}
+Kikou Senki Dragonar: {}
+Slayers Premium: {'Mahoujin Guru Guru Movie': 1.0, 'Slayers Gorgeous': 0.8}
+Slayers Gorgeous: {'Slayers Premium': 0.8}
+Slayers Great: {}
+Slayers Return: {}
+Dragon Half: {}
+Mahou Shoujo-tai Arusu: {}
+.hack//Roots: {}
+Digimon Tamers: {}
+Mind Game: {}
+Street Fighter II V: {}
+Nana: {}
+Zegapain: {}
+Simoun: {'Strawberry Panic': 0.8}
+Aa! Megami-sama! Sorezore no Tsubasa: {}
+Green Green OVA: {'Futari Ecchi': 1.0, 'Tokyo Daigaku Monogatari': 0.8, 'Kyoukasho ni Nai!': 1.0}
+Yuu☆Yuu☆Hakusho (Movie): {}
+Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna: {}
+Shin Angyo Onshi: {}
+Tenshi no Tamago: {}
+Amaenaide yo!! Katsu!!: {}
+Megami Kouhosei Special Curriculum: {}
+Megami Kouhosei: {}
+Black Lagoon: {}
+Yuusha-Ou GaoGaiGar: {}
+Dragon Ball Movie 2: Majinjou no Nemurihime: {'Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai': 0.83, 'Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin': 1.0}
+Dragon Ball Movie 3: Makafushigi Daibouken: {'Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da': 0.83, 'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu': 1.0, 'Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen': 1.0}
+Dragon Ball Movie 4: Saikyou e no Michi: {'Saint Seiya: Tenkai-hen Josou - Overture': 0.83, 'Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai': 0.83, 'Pokemon Movie 07: Rekkuu no Houmonsha Deoxys': 1.0, 'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu': 1.0, 'Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta': 1.0, 'Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!': 1.0}
+Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!: {'Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen': 1.0, 'Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen': 1.0, 'Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin': 1.0, 'Dragon Ball Movie 4: Saikyou e no Michi': 1.0}
+Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu: {}
+Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen: {'Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!': 1.0, 'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu': 1.0, 'Dragon Ball Movie 3: Makafushigi Daibouken': 1.0}
+Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu: {'Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!': 0.8, 'One Piece Movie 07: Karakuri-jou no Mecha Kyohei': 0.8}
+Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou: {}
+Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi: {'Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru': 1.0, 'Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da': 0.83, 'Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen': 1.0, 'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu': 1.0}
+Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin: {'Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!': 1.0, 'Dragon Ball Movie 2: Majinjou no Nemurihime': 1.0}
+Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen: {'Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!': 1.0, 'Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai': 0.83, 'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu': 1.0, 'Pokemon Movie 07: Rekkuu no Houmonsha Deoxys': 1.0, 'Project A-Ko': 0.83, 'Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi': 1.0}
+Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu: {'Pokemon Movie 07: Rekkuu no Houmonsha Deoxys': 1.0, 'Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai': 0.83, 'Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da': 0.83, 'Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen': 1.0, 'Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen': 1.0, 'Dragon Ball Movie 4: Saikyou e no Michi': 1.0, 'Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi': 1.0, 'Dragon Ball Movie 3: Makafushigi Daibouken': 1.0}
+Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai: {'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu': 0.83, 'Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen': 0.83, 'Dragon Ball Movie 1: Shen Long no Densetsu': 1.0, 'Dragon Ball Movie 2: Majinjou no Nemurihime': 0.83, 'Dragon Ball Movie 4: Saikyou e no Michi': 0.83}
+Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da: {'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu': 0.83, 'One Piece Movie 01': 0.8, 'Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi': 0.83, 'Dragon Ball Movie 3: Makafushigi Daibouken': 0.83}
+Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta: {'Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru': 1.0, 'Dragon Ball Movie 4: Saikyou e no Michi': 1.0}
+Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru: {'Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta': 1.0, 'Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi': 1.0}
+Princess Princess: {}
+Fullmetal Alchemist: Premium Collection: {}
+Geneshaft: {}
+Himawari!: {}
+Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu: {}
+Ninkuu: {}
+Kakutou Bijin Wulong: {}
+Ike! Ina-chuu Takkyuu-bu: {}
+Ginga Densetsu Weed: {}
+Tokkou: {}
+Riding Bean: {}
+Gintama: {}
+Ray The Animation: {}
+Nurse Witch Komugi-chan Magikarte Special: {'Mai-HiME Specials': 1.0, 'Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi': 1.0}
+Nurse Witch Komugi-chan Magikarte Z: {}
+Transformers: Choujin Master Force: {}
+Transformers: The☆Headmasters: {}
+Tatakae! Chou Robot Seimeitai Transformers Victory: {}
+Transformers Superlink: {}
+Transformers Galaxy Force: {}
+Seisenshi Dunbine: {}
+Densetsu Kyojin Ideon: {}
+Ichigeki Sacchuu!! Hoihoi-san: {}
+Dai Mahou Touge: {}
+Higurashi no Naku Koro ni: {}
+Witchblade: {}
+Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!: {'Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu': 0.8}
+Appleseed: {'Sol Bianca': 1.0}
+Shin Getter Robo tai Neo Getter Robo: {'Black Magic M-66': 1.0, 'Baoh Raihousha': 1.0}
+Inukami!: {}
+Renkin San-kyuu Magical? Pokaan: {}
+Nishi no Yoki Majo: Astraea Testament: {}
+Yume Tsukai: {}
+The Third: Aoi Hitomi no Shoujo: {}
+Top wo Nerae! Gunbuster: {}
+Street Fighter Alpha: Generations: {}
+Chibi Maruko-chan: {}
+Magical Nyan Nyan Taruto: {}
+Juu Ou Sei: {}
+Daikuu Maryuu Gaiking: {}
+Saiunkoku Monogatari: {}
+Heat Guy J: {}
+Shin Chou Kyou Ryo: Condor Hero: {}
+Shin Chou Kyou Ryo: Condor Hero II: {}
+Virtua Fighter: {}
+Aria the Natural: {}
+Love Hina: Motoko no Sentaku, Koi ka Ken... "Naku na": {}
+Hit wo Nerae!: {}
+Yoshinaga-sanchi no Gargoyle: {}
+Crayon Shin-chan: {}
+Hokuto no Ken: {}
+Kakutou Bijin Wulong: Rebirth: {}
+Tsubasa Chronicle 2nd Season: {}
+Yokoyama Mitsuteru Sangokushi: {}
+Astro Boy: Tetsuwan Atom: {}
+Bible Black Gaiden: {}
+Glass no Kantai: La Legende du Vent de l'Univers: {}
+Dead Leaves: {}
+Yokohama Kaidashi Kikou: {}
+Yokohama Kaidashi Kikou: Quiet Country Cafe: {}
+Ginga Teikoku no Metsubou Gaiden: Aoki Ookami-tachi no Densetsu: {}
+Change!! Getter Robo: Sekai Saigo no Hi: {'Kyoushoku Soukou Guyver II': 0.83, 'Sakura Taisen: Ouka Kenran': 0.8, 'Sol Bianca': 0.8}
+Street Fighter Zero The Animation: {}
+Rikujou Bouei-tai Mao-chan: {}
+Ichigo 100% OVA: {'Hanaukyou Maid-tai OVA': 1.0}
+Cosplay Complex: {}
+Cosplay Complex: Extra Identification: {'Kaleido Star: Good da yo! Goood!!': 1.0}
+Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku: {'Choujuu Densetsu Gestalt': 0.8}
+Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks: {}
+Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen: {}
+Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu: {'One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!': 0.8}
+Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation: {}
+Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi: {'City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo': 1.0}
+Kamisama Kazoku: {'Shin Shirayuki-hime Densetsu Prétear': 0.8}
+Usagi-chan de Cue!!: {}
+Dual! Parallel Lun-Lun Monogatari: {}
+Dual! Parallel Runrun Monogatari Special: {}
+Sin in the Rain: {}
+Tennis no Ouji-sama: Zenkoku Taikai-hen: {}
+Bishoujo Senshi Sailor Moon: Sailor Stars: {}
+Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito: {}
+Blue Seed: {}
+Blue Seed 2: {}
+Uchuu Kaizoku Captain Herlock: {}
+Tide-Line Blue: Kyoudai: {}
+Top wo Nerae 2! Diebuster: {}
+Aa! Megami-sama! (TV) Specials: {}
+Kanojo to Kanojo no Neko: {}
+Star Ocean EX: {}
+Tenchi Muyou! in Love: {}
+Ranma ½ OVA: {}
+Ranma ½: Yomigaeru Kioku: {'Good Morning Call': 1.0, 'Love Hina Again': 0.8, 'Shin Angel': 0.8}
+Battle Spirits: Ryuuko no Ken: {}
+Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou: {}
+Ranma ½ Super: {}
+Sexy Commando Gaiden: Sugoi yo!! Masaru-san Specials: {}
+Le Chevalier D'Eon: {}
+Chicchana Yukitsukai Sugar Specials: {}
+Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi: {'Nurse Witch Komugi-chan Magikarte Special': 1.0}
+Gunnm: {'Pale Cocoon': 1.0, 'Future GPX Cyber Formula 11': 1.0}
+Majutsushi Orphen: {'Pokemon Advanced Generation': 0.8}
+Majutsushi Orphen: Revenge: {}
+Honoo no Mirage: {}
+Honoo no Mirage: Minagiwa no Hangyakusha: {}
+Kaikan Phrase: {}
+Generator Gawl: {'R.O.D: The TV': 0.83}
+Wolf's Rain OVA: {}
+Weiß Kreuz OVA: {}
+Kachou Ouji: {}
+Yakumotatsu: {}
+Psychic Force: {'Super Robot Taisen OG The Animation': 1.0, 'Shin Hokuto no Ken': 1.0}
+Arete Hime: {}
+Omoide Poroporo: {}
+Heisei Tanuki Gassen Ponpoko: {}
+Hanare Toride no Yonna: {}
+Kumo no You ni Kaze no You ni: {}
+Sennen Joyuu: {}
+Ouritsu Uchuugun: Honneamise no Tsubasa: {}
+Patalliro Saiyuuki!: {}
+Kashou no Tsuki: Aki Kyougen: {}
+Saint Beast: Seijuu Kourin-hen: {}
+Mizuiro: {'Kurohime: Shikkoku no Yakata': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0, 'Yakin Byoutou': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, 'Yakin Byoutou San': 1.0, 'Pure Mail': 1.0}
+Mizuiro (2003): {}
+Mizuiro Jidai: {}
+Zetsuai 1989: {'Bronze: Zetsuai Since 1989': 1.0}
+Bronze: Zetsuai Since 1989: {'Zetsuai 1989': 1.0}
+Tokyo Babylon: {}
+Taiyou no Ouji: Horus no Daibouken: {}
+Elf wo Karu Mono-tachi: {}
+Elf wo Karu Mono-tachi II: {}
+On Your Mark: {}
+The SoulTaker: Tamashii-gari: {}
+Cello Hiki no Gauche (1982): {'Fullmetal Alchemist: The Conqueror of Shamballa': 0.8}
+Bobobo-bo Bo-bobo: {}
+Ao no 6-gou: {'Macross II: Lovers Again': 0.8}
+Tokyo Juushouden: {}
+Tokyo Daigaku Monogatari: {'Kyoukasho ni Nai!': 0.8, 'Green Green OVA': 0.8, "I''s Pure": 1.0}
+Blame!: {}
+Good Morning Call: {'Ranma ½: Yomigaeru Kioku': 1.0}
+Ippatsu Kiki Musume: {}
+Kidou Shinsengumi Moeyo Ken: {}
+Mutant Turtles: Choujin Densetsu-hen: {'Tenchi Muyou! Ryououki 3rd Season': 0.8, 'eX-Driver': 1.0, 'Submarine 707R': 0.8, 'A-Ko The Versus': 0.83, 'Macross Dynamite 7': 1.0, 'Saber Marionette R': 0.8}
+Oruchuban Ebichu: {}
+Nekojiru Gekijou Jirujiru Original: {}
+Mazinkaiser: {'VS Knight Lamune & 40 Fresh': 0.8, 'Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa': 1.0}
+Touch: {}
+Shakugan no Shana-tan: {}
+Kishin Houkou Demonbane (TV): {}
+Chou Denji Robo Combattler V: {}
+Chou Denji Machine Voltes V: {}
+Love Get Chu: {}
+Memories Off #5 Togireta Film The Animation: {}
+Sweat Punch: {'Kai Doh Maru': 1.0}
+Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!: {}
+Netrun-mon the Movie: {'Kaleido Star: Good da yo! Goood!!': 1.0}
+Wizardry: {'Legend of Crystania': 0.8, 'Saint Seiya: Meiou Hades Juuni Kyuu-hen': 0.8}
+Cardcaptor Sakura: Kero-chan ni Omakase!: {}
+Armitage III: {'Sol Bianca': 0.8}
+Sentou Yousei Yukikaze: {'Key the Metal Idol': 0.83}
+Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey: {}
+Hikari to Mizu no Daphne: {}
+Ningen Kousaten: {}
+I''s: {'Elf-ban Kakyuusei: Anata dake wo Mitsumete...': 1.0}
+Interlude: {}
+Kenran Butou Sai: The Mars Daybreak: {}
+Kimagure Orange☆Road: {}
+Macross: {}
+Macross: Do You Remember Love?: {}
+Kidou Senshi Gundam I: {'Kidou Senshi Gundam II: Ai Senshi-hen': 0.8, 'Steamboy': 1.0}
+Kidou Senshi Gundam II: Ai Senshi-hen: {'Kidou Senshi Gundam I': 0.8}
+Kidou Senshi Gundam III: Meguriai Sora-hen: {'Odin: Koushi Hansen Starlight': 1.0, 'Genma Taisen': 0.83}
+Oishinbo: {}
+One Piece: Umi no Heso no Daibouken-hen: {}
+Kidou Keisatsu Patlabor the Movie: {}
+Kidou Keisatsu Patlabor 2 the Movie: {}
+Lime-iro Senkitan: {}
+Samurai Girl Real Bout High School: {}
+Shadow Skill: Kurudaryuu Kousatsuhou no Himitsu: {}
+Soreyuke! Uchuu Senkan Yamamoto Youko: {}
+Tenchi Muyou! Manatsu no Eve: {}
+Urda: {}
+Shinkon Gattai Godannar!!: {}
+Shinkon Gattai Godannar!! 2nd Season: {'Mahoromatic: Automatic Maiden': 0.8}
+Digital Juice: {}
+Eikyuu Kazoku: {}
+Youjuu Toshi: {}
+Senkaiden Houshin Engi: {}
+Monster Extra: Hottan: {}
+Mermaid Melody Pichi Pichi Pitch Pure: {}
+Vandread: Gekitou-hen: {}
+Vandread: Taidou-hen: {}
+One: Kagayaku Kisetsu e - True Stories: {'Jinshin Yuugi': 1.0, 'Yakin Byoutou San': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, 'Bible Black: New Testament': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0, 'Tsumamigui': 1.0, 'Injuu Gakuen La Blue Girl': 1.0, 'Shintaisou: Kari': 1.0}
+Handsome Girl: {}
+Junkers Come Here: {}
+Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan: {'Slayers: The Motion Picture': 0.8}
+Pokemon Movie 03: Kesshoutou no Teiou Entei: {}
+Pokemon Movie 04: Celebi Toki wo Koeta Deai: {}
+Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios: {}
+Pokemon Movie 06: Nanayo no Negaiboshi Jirachi: {}
+Pokemon Movie 07: Rekkuu no Houmonsha Deoxys: {'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu': 1.0, 'Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen': 1.0, 'Dragon Ball Movie 1: Shen Long no Densetsu': 0.83, 'Dragon Ball Movie 4: Saikyou e no Michi': 1.0}
+Bouken Ou Beet Excellion: {}
+Seikai no Danshou: Tanjou: {}
+Figure 17: Tsubasa & Hikaru: {}
+UFO Princess Valkyrie: {}
+UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku: {}
+UFO Princess Valkyrie: Shichiten Battou Hanayome Shuugyou: {}
+Windaria: {'Wonderful Days': 0.83}
+Digimon Frontier: {}
+Tenchi Muyou! GXP: {}
+Munto: Toki no Kabe wo Koete: {}
+Betterman: {}
+Mushrambo: {}
+Medarot: {}
+Monkey Magic: {}
+Giniro no Kami no Agito: {}
+Palme no Ki: {}
+Hachimitsu to Clover II: {}
+.hack//Intermezzo: {}
+Tenchi Muyou! in Love 2: Harukanaru Omoi: {}
+Kaze no Youjinbou: {}
+Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!: {}
+Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?: {'Burn Up! W': 0.8}
+Teito Monogatari: {}
+Choujuushin Gravion Zwei: {'Seihou Bukyou Outlaw Star': 0.8}
+Legend of Crystania: {'Lodoss-tou Senki': 0.8, 'Wizardry': 0.8}
+Dominion: {'Kidou Keisatsu Patlabor: New OVA': 1.0, 'Stratos 4 Advance Kanketsu-hen': 1.0, 'Bishoujo Yuugekitai Battle Skipper': 1.0}
+New Dominion Tank Police: {'Kidou Keisatsu Patlabor: New OVA': 1.0, 'Stratos 4 Advance Kanketsu-hen': 1.0}
+Crying Freeman: {}
+Mother: Saigo no Shoujo Eve: {}
+Melty Lancer: {}
+I: Wish You Were Here: {}
+Final Fantasy: Unlimited: {}
+Geobreeders: File-X Chibi Neko Dakkan: {}
+Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa: {'Tenamonya Voyagers': 0.8, 'Mazinkaiser': 1.0, 'Musekinin Kanchou Tylor OVA': 0.8}
+Gundress: {}
+Maze☆Bakunetsu Jikuu (TV): {}
+Maze☆Bakunetsu Jikuu: {'Choujuu Densetsu Gestalt': 1.0}
+Neo Ranga: {}
+Mahou Senshi Louie: {}
+Sakura Taisen: Ouka Kenran: {'Saint Seiya: Meiou Hades Juuni Kyuu-hen': 0.8, 'Change!! Getter Robo: Sekai Saigo no Hi': 0.8}
+Sakura Taisen: Gouka Kenran: {}
+Samurai Gun: {}
+Musekinin Kanchou Tylor OVA: {'Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa': 0.8}
+Green Legend Ran: {}
+Slayers Specials: {'Yousei Hime Ren': 1.0}
+Slayers Excellent: {}
+Slayers Try: {}
+Munto: {}
+Metal Fighter Miku: {}
+Unkai no Meikyuu Zeguy: {'Final Fantasy': 0.8}
+Alien 9: {}
+Detonator Orgun: {}
+Gakuen Senki Muryou: {}
+Hyper Police: {}
+Hikyou Tanken Fam & Ihrlie: {'Final Fantasy': 1.0}
+Shamanic Princess: {}
+Variable Geo: {}
+Lost Universe: {}
+Battle Athletess Daiundoukai: {}
+Battle Athletess Daiundoukai (TV): {}
+DNA² OVA: {}
+Momoiro Sisters: {}
+Eden's Bowy: {}
+Tennis no Ouji-sama: Sonzoku Yama no Hi: {}
+Saber Marionette J Again: {'A-Ko The Versus': 0.83, 'Project A-Ko 3: Cinderella Rhapsody': 0.8, 'Tetsuwan Birdy': 0.8}
+Kakurenbo: {}
+Happy Seven: The TV Manga: {}
+Coyote Ragtime Show: {}
+Zero no Tsukaima: {}
+Masuda Kousuke Gekijou Gag Manga Biyori: {}
+Tsuyokiss: {}
+Nintama Rantarou: {}
+Gun-dou Musashi: {}
+Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo: {'Sol Bianca': 0.8}
+Nitaboh: {}
+Kujira no Chouyaku: {}
+Aru Tabibito no Nikki: {}
+Ihatov Gensou: Kenji no Haru: {}
+Wata no Kuni Hoshi: {}
+Tatsu no Ko Tarou: {}
+Nasu: Andalusia no Natsu: {}
+NHK ni Youkoso!: {}
+Macross Plus Movie Edition: {}
+Oban Star-Racers: {}
+Binbou Shimai Monogatari: {}
+Kidou Senshi Gundam SEED C.E. 73: Stargazer: {}
+Boku wa Konomama Kaeranai: {}
+Seikimatsu★Darling: {'Kaze to Ki no Uta Sanctus: Sei Naru Kana': 0.8}
+Tonagura!: {}
+Chocotto Sister: {}
+Hoshizora Kiseki: {}
+Demashita! Powerpuff Girls Z: {}
+Bokura ga Ita: {}
+Ame to Shoujo to Watashi no Tegami: {}
+Aquarian Age: Sign for Evolution: {}
+3x3 Eyes: Seima Densetsu: {}
+Seihou Tenshi Angel Links: {'Saber Marionette J': 0.86}
+Shuten Douji: {}
+Chivas 1-2-3: {}
+Innocent Venus: {}
+Saber Marionette J to X: {}
+Saber Marionette R: {'Mutant Turtles: Choujin Densetsu-hen': 0.8}
+Aozora Shoujo-tai: {}
+Hand Maid Mai: {}
+Ichitaka no Mousou Nikki: {}
+SF Saiyuuki Starzinger: {}
+One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!: {'Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu': 0.8}
+One Piece: Mamore! Saigo no Dai Butai: {}
+Bishoujo Senshi Sailor Moon SuperS: {}
+Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki: {'Ohoshi-sama no Rail': 1.0}
+Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai: {'Macross Flash Back 2012': 1.0, 'Ginga Eiyuu Densetsu': 1.0}
+Night Head Genesis: {}
+Ankoku Shindenshou Takegami: {'The Animatrix': 0.8}
+Shihaisha no Tasogare: {}
+Yuugo: Koushounin: {}
+Project BLUE Chikyuu SOS: {}
+Zone of the Enders: 2167 Idolo: {'The Animatrix': 0.8}
+Zone of the Enders: Dolores, I: {}
+Erementar Gerad: {}
+Fushigi no Umi no Nadia: {}
+Fushigi no Umi no Nadia: Original Movie: {}
+Saint Seiya: Meiou Hades Meikai-hen: {}
+Saint Seiya: {}
+Saint Seiya: Shinku no Shounen Densetsu: {}
+Saint Seiya: Jashin Eris: {'Hokuto no Ken Movie': 1.0, 'Sakura Taisen: Katsudou Shashin': 1.0}
+Saint Seiya: Meiou Hades Juuni Kyuu-hen: {'Sakura Taisen: Ouka Kenran': 0.8, 'Wizardry': 0.8}
+Saint Seiya: Kamigami no Atsuki Tatakai: {}
+Saint Seiya: Tenkai-hen Josou - Overture: {'One Piece Movie 05: Norowareta Seiken': 0.8, 'Dragon Ball Movie 4: Saikyou e no Michi': 0.83, 'One Piece Movie 07: Karakuri-jou no Mecha Kyohei': 0.8}
+Saint Seiya: Saishuu Seisen no Senshi-tachi: {}
+Kyattou Ninden Teyandee: {}
+Macross II: Lovers Again: {'Ao no 6-gou': 0.8, 'Cyber City Oedo 808': 1.0, 'Herlock Saga: Nibelung no Yubiwa': 0.8, 'Bubblegum Crash': 1.0, 'Sol Bianca': 1.0}
+Suika: {}
+Yoroiden Samurai Troopers: {}
+Yoroiden Samurai Troopers Gaiden: {'Tales of Phantasia The Animation': 1.0, 'Yoroiden Samurai Troopers Message': 1.0}
+Yoroiden Samurai Troopers Kikoutei Densetsu: {}
+Yoroiden Samurai Troopers Message: {'Yoroiden Samurai Troopers Gaiden': 1.0}
+Aquarian Age: Saga II - Don't Forget Me...: {}
+Bio Hunter: {}
+Black Magic M-66: {'Angel Cop': 1.0, 'Baoh Raihousha': 1.0, 'Shin Hokuto no Ken': 1.0, 'Shin Getter Robo tai Neo Getter Robo': 1.0}
+Kyoukasho ni Nai!: {'Tokyo Daigaku Monogatari': 0.8, 'Green Green OVA': 1.0, "I''s Pure": 0.8}
+Injuu Gakuen La Blue Girl: {'One: Kagayaku Kisetsu e - True Stories': 1.0, 'Shintaisou: Kari': 1.0, 'Yakin Byoutou Ni': 1.0, 'Yakin Byoutou': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Cool Devices': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0, 'Flutter of Birds: Tori-tachi no Habataki': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, 'Bible Black': 1.0}
+Injuu Gakuen La☆Blue Girl: Fukkatsu-hen: {'Mizuiro': 1.0, 'One: Kagayaku Kisetsu e - True Stories': 1.0, 'Injuu Gakuen La Blue Girl': 1.0, 'Blood Royale': 1.0, 'Ai Shimai 2: Futari no Kajitsu': 1.0, 'Imouto de Ikou!': 1.0, 'MaMa': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Makai Tenshi Djibril': 1.0, 'Injuu Gakuen EX': 1.0, 'Yakin Byoutou Ni': 1.0, 'Bible Black: New Testament': 1.0, 'Shintaisou: Shin': 1.0}
+Injuu Gakuen EX: {'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Can Can Bunny Extra: {}
+Ys: {}
+Ys: Tenkuu no Shinden - Adol Christine no Bouken: {}
+Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi: {}
+Taiyou no Ko Esteban: {}
+Mamono Hunter Youko: {}
+Gakkou no Kaidan: {}
+Choujuu Densetsu Gestalt: {'Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku': 0.8, 'Maze☆Bakunetsu Jikuu': 1.0}
+Houma Hunter Lime: {}
+Soukihei MD Geist: {'Makyuu Senjou': 1.0}
+Soukihei MD Geist 2: Death Force: {'Makyuu Senjou': 1.0, 'Shin Hokuto no Ken': 1.0, 'Super Robot Taisen OG The Animation': 1.0}
+Odin: Koushi Hansen Starlight: {'Kidou Senshi Gundam III: Meguriai Sora-hen': 1.0, 'Steamboy': 1.0, 'Macross 7 Movie: Ginga ga Ore wo Yondeiru!': 0.83, 'Genma Taisen': 0.83, 'Armitage III: Dual-Matrix': 0.8}
+Kidou Keisatsu Patlabor: {'Tenbatsu Angel Rabbie☆': 1.0}
+Kidou Keisatsu Patlabor: New OVA: {'Dominion': 1.0, 'Sentou Yousei Shoujo Tasukete! Mave-chan': 1.0, 'Bishoujo Yuugekitai Battle Skipper': 1.0, 'New Dominion Tank Police': 1.0}
+WXIII Kidou Keisatsu Patlabor: {}
+Afro Samurai: {}
+Urusei Yatsura: {}
+A-Ko The Versus: {'Saber Marionette J Again': 0.83, 'Mutant Turtles: Choujin Densetsu-hen': 0.83}
+Project A-Ko 2: Daitokuji Zaibatsu no Inbou: {'Maps': 0.8, 'Sailor Victory': 1.0, 'Project A-Ko 3: Cinderella Rhapsody': 1.0, 'Project A-Ko 4: Final': 1.0}
+Project A-Ko 3: Cinderella Rhapsody: {'Maps': 0.8, 'Project A-Ko 4: Final': 1.0, 'Saber Marionette J Again': 0.8, 'Project A-Ko 2: Daitokuji Zaibatsu no Inbou': 1.0}
+Project A-Ko 4: Final: {'Project A-Ko 3: Cinderella Rhapsody': 1.0, 'Sailor Victory': 1.0, 'Project A-Ko 2: Daitokuji Zaibatsu no Inbou': 1.0}
+Flag: {}
+Omishi Mahou Gekijou: Risky★Safety: {}
+Ginga Tetsudou 999 (Movie): {}
+Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki: {}
+The Animatrix: {'Ankoku Shindenshou Takegami': 0.8, 'Zone of the Enders: 2167 Idolo': 0.8}
+Chobits Recap: {}
+Chikyuu Bouei Kigyou Dai-Guard: {}
+Digimon Adventure 02: {}
+DT Eightron: {}
+Idaten Jump: {'Capeta': 1.0}
+Eyeshield 21: Maboroshi no Golden Bowl: {'Hajime no Ippo: Champion Road': 1.0}
+Earthian: {}
+Hamelin no Violin Hiki: {}
+Aoki Densetsu Shoot!: {}
+1 Pound no Fukuin: {}
+Ohoshi-sama no Rail: {'Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki': 1.0}
+Dragon Pink: {}
+Elf no Wakaokusama: {'Princess Memory': 1.0}
+Fushigi na Koala Blinky: {}
+Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi: {}
+Kyoushoku Soukou Guyver II: {'Change!! Getter Robo: Sekai Saigo no Hi': 0.83}
+Dororon Enma-kun: {}
+Shin Megami Tensei: Tokyo Mokushiroku: {'Hellsing Ultimate': 0.8}
+Cool Devices: {'Uba': 1.0, 'Injuu Gakuen La Blue Girl': 1.0, 'Blood Royale': 1.0, 'Kurohime: Shikkoku no Yakata': 1.0, 'Shintaisou: Shin': 1.0, "Nikutai Ten'i": 1.0, 'Parade Parade': 1.0, 'Yakin Byoutou San': 1.0, 'MaMa': 1.0}
+Yami no Shihosha Judge: {}
+Violence Jack: Harlem Bomber-hen: {'Kyuuketsuhime Miyu': 1.0}
+Violence Jack: Jigoku Gai-hen: {"Violence Jack: Hell's Wind-hen": 1.0}
+Violence Jack: Hell's Wind-hen: {'Violence Jack: Jigoku Gai-hen': 1.0, 'Kyuuketsuhime Miyu': 1.0}
+Eightman After: {}
+Soujuu Senshi Psychic Wars: {'Mai-Otome Zwei': 1.0}
+AD Police: {}
+Bubblegum Crisis: {}
+Bubblegum Crash: {'Cyber City Oedo 808': 1.0, 'Macross II: Lovers Again': 1.0}
+A.D. Police (TV): {}
+Parasite Dolls: {}
+Angel Cop: {'Black Magic M-66': 1.0}
+Cyber City Oedo 808: {'Macross Dynamite 7': 0.8, 'Maps': 0.8, 'Bubblegum Crash': 1.0, 'Macross II: Lovers Again': 1.0}
+The Urotsuki: {}
+Makyuu Senjou: {'Soukihei MD Geist 2: Death Force': 1.0, 'Soukihei MD Geist': 1.0}
+Hokuto no Ken 2: {}
+Shin Hokuto no Ken: {'Soukihei MD Geist 2: Death Force': 1.0, 'Psychic Force': 1.0, 'Black Magic M-66': 1.0}
+Hokuto no Ken Movie: {'Saint Seiya: Jashin Eris': 1.0}
+Nikutai Ten'i: {'Cool Devices': 1.0, 'Yakin Byoutou': 1.0, 'Flutter of Birds: Tori-tachi no Habataki': 1.0, 'Shintaisou: Shin': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Yakin Byoutou San': 1.0, 'Tsumamigui': 1.0}
+Makai Tenshi Djibril: {'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Final Fantasy: The Spirits Within: {}
+Street Fighter II Movie: {}
+Detective Conan Movie 04: Captured in Her Eyes: {}
+Detective Conan Movie 05: Countdown to Heaven: {'Detective Conan Movie 09: Strategy Above the Depths': 1.0}
+Detective Conan Movie 06: The Phantom of Baker Street: {}
+Detective Conan Movie 07: Crossroad in the Ancient Capital: {'Detective Conan Movie 09: Strategy Above the Depths': 1.0}
+Detective Conan Movie 08: Magician of the Silver Sky: {}
+Detective Conan OVA 06: Follow the Vanished Diamond! Conan & Heiji vs. Kid!: {}
+Detective Conan OVA 01: Conan vs. Kid vs. Yaiba - Houtou Soudatsu Daikessen!!: {}
+Atama Yama: {}
+Hi no Tori: {}
+Taiho Shichau zo (TV): {}
+Black Jack Specials: Inochi wo Meguru Yottsu no Kiseki: {}
+Kyoushoku Soukou Guyver (2005): {}
+Watashi no Ashinaga Ojisan: {}
+Ojamajo Doremi Na-i-sho: {'Jikuu Ihoujin Kyoko: Chocola ni Omakase!': 1.0, '.hack//Gift': 1.0}
+Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden: {}
+Sengoku Kitan Youtouden Movie: {}
+Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.: {}
+Blue Gender: The Warrior: {}
+Seikai no Monshou Special: {}
+Yuusha-Ou GaoGaiGar Final: {}
+Yuuwaku Countdown: {}
+Kyuuketsuhime Miyu: {"Violence Jack: Hell's Wind-hen": 1.0, 'Violence Jack: Harlem Bomber-hen': 1.0}
+Kurohime: Shikkoku no Yakata: {'Mizuiro': 1.0, 'Jinshin Yuugi': 1.0, 'Cool Devices': 1.0}
+Blood Royale: {'Ai Shimai 2: Futari no Kajitsu': 1.0, 'Yakin Byoutou Ni': 1.0, 'Shintaisou: Shin': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'Parade Parade': 1.0, 'Imouto de Ikou!': 1.0, 'Kao no nai Tsuki': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, 'Bible Black: New Testament': 1.0, 'Yakin Byoutou San': 1.0, 'Tsumamigui': 1.0, 'Cool Devices': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Yakin Byoutou: {'Mizuiro': 1.0, 'Injuu Gakuen La Blue Girl': 1.0, "Nikutai Ten'i": 1.0, 'Kao no nai Tsuki': 1.0, 'Ai Shimai 2: Futari no Kajitsu': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Yakin Byoutou San': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, 'Inma Daitoshi: Beast City': 1.0, 'MaMa': 1.0, 'Shintaisou: Shin': 1.0, 'Shintaisou: Kari': 1.0}
+Yakin Byoutou Ni: {'Imouto de Ikou!': 1.0, 'MaMa': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, 'Kao no nai Tsuki': 1.0, 'Bible Black: New Testament': 1.0, 'Inma Daitoshi: Beast City': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Parade Parade': 1.0, 'Blood Royale': 1.0, 'Injuu Gakuen La Blue Girl': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Yakin Byoutou San: {'Mizuiro': 1.0, 'Blood Royale': 1.0, 'One: Kagayaku Kisetsu e - True Stories': 1.0, 'Cool Devices': 1.0, "Nikutai Ten'i": 1.0, 'Yakin Byoutou': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Parade Parade': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Ai Shimai 2: Futari no Kajitsu': 1.0}
+Parade Parade: {'Yakin Byoutou Ni': 1.0, 'Blood Royale': 1.0, 'Cool Devices': 1.0, 'Yakin Byoutou San': 1.0}
+Future GPX Cyber Formula: {}
+Future GPX Cyber Formula 11: {'Gunnm': 1.0, 'Future GPX Cyber Formula Zero': 1.0}
+Future GPX Cyber Formula Zero: {'Ginga Eiyuu Densetsu': 1.0, 'Future GPX Cyber Formula 11': 1.0}
+Future GPX Cyber Formula Saga: {'Macross Flash Back 2012': 1.0, 'Maetel Legend': 1.0, 'Future GPX Cyber Formula Sin': 1.0}
+Future GPX Cyber Formula Sin: {'Macross Flash Back 2012': 1.0, 'Ginga Eiyuu Densetsu': 1.0, 'Future GPX Cyber Formula Saga': 1.0}
+Future GPX Cyber Formula: Early Days Renewal: {}
+Macross 7: {}
+Macross Dynamite 7: {'Cyber City Oedo 808': 0.8, 'Sailor Victory': 0.8, 'Maps': 1.0, 'Mutant Turtles: Choujin Densetsu-hen': 1.0}
+Macross 7 Encore: {'Tetsuwan Birdy': 0.8}
+Macross 7 Movie: Ginga ga Ore wo Yondeiru!: {'Odin: Koushi Hansen Starlight': 0.83}
+Bible Black: New Testament: {'Uba': 1.0, 'Yakin Byoutou Ni': 1.0, 'Blood Royale': 1.0, 'One: Kagayaku Kisetsu e - True Stories': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Princess Memory: {'Elf no Wakaokusama': 1.0}
+Tsumamigui: {'Blood Royale': 1.0, 'One: Kagayaku Kisetsu e - True Stories': 1.0, 'Imouto de Ikou!': 1.0, 'Flutter of Birds: Tori-tachi no Habataki': 1.0, 'Shintaisou: Shin': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'Kao no nai Tsuki': 1.0, 'Shintaisou: Kari': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, "Nikutai Ten'i": 1.0}
+Flutter of Birds: Tori-tachi no Habataki: {'Injuu Gakuen La Blue Girl': 1.0, 'Tsumamigui': 1.0, "Nikutai Ten'i": 1.0}
+Tokio Kidou Police: {}
+Gibo: {}
+Stainless Night: {}
+Kao no nai Tsuki: {'Yakin Byoutou Ni': 1.0, 'Blood Royale': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Shintaisou: Kari': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, 'MaMa': 1.0, 'Tsumamigui': 1.0, 'Yakin Byoutou': 1.0}
+IGPX: Immortal Grand Prix: {}
+IGPX: Immortal Grand Prix (2005) 2nd Season: {}
+VS Knight Lamune & 40 Fresh: {'Choushin Hime Dangaizer 3': 0.8, 'Tenamonya Voyagers': 1.0, 'Mazinkaiser': 0.8}
+Lupin III: {}
+Lupin III: Alcatraz Connection: {'Pokemon Crystal: Raikou Ikazuchi no Densetsu': 0.8, 'Lupin III: Episode 0 "First Contact"': 0.8, 'Lupin III: Hemingway Paper no Nazo': 0.8, "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days": 0.8, 'Lupin III: Walther P38': 0.8, 'Lupin III: Harimao no Zaihou wo Oe!!': 0.8, 'Lupin III: Moeyo Zantetsuken!': 0.8, 'Lupin III: Bye Bye Liberty - Kiki Ippatsu!': 0.8, 'Lupin III: Napoleon no Jisho wo Ubae': 0.8}
+Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori: {'Lupin III: Otakara Henkyaku Daisakusen!!': 1.0, 'Lupin III: Napoleon no Jisho wo Ubae': 1.0, 'Lupin III: Nusumareta Lupin': 1.0, 'Lupin III: Hemingway Paper no Nazo': 1.0, 'Lupin III: Harimao no Zaihou wo Oe!!': 1.0, 'Lupin III: Lupin Ansatsu Shirei': 1.0, 'Lupin III: Walther P38': 1.0}
+Lupin III: Bye Bye Liberty - Kiki Ippatsu!: {'Lupin III: Alcatraz Connection': 0.8, 'City Hunter: The Secret Service': 0.8, 'Lupin III: Honoo no Kioku - Tokyo Crisis': 1.0, 'Lupin III: Otakara Henkyaku Daisakusen!!': 1.0, 'Lupin III: Nusumareta Lupin': 1.0, 'Lupin III: Twilight Gemini no Himitsu': 0.8, 'Lupin III: $1 Money Wars': 1.0}
+Lupin III: Dead or Alive: {'Lupin III: Cagliostro no Shiro': 0.83, 'Lupin III: Lupin vs. Fukusei-ningen': 1.0, 'City Hunter: Bay City Wars': 0.8, 'Lupin III: Kutabare! Nostradamus': 1.0, 'Lupin III: Babylon no Ougon Densetsu': 1.0}
+Lupin III: Moeyo Zantetsuken!: {'Lupin III: Alcatraz Connection': 0.8}
+Lupin III: Episode 0 "First Contact": {'Lupin III: Alcatraz Connection': 0.8, 'City Hunter: The Secret Service': 0.8, "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days": 1.0, 'Lupin III: Walther P38': 1.0, 'Lupin III: Hemingway Paper no Nazo': 1.0}
+Lupin III: Kutabare! Nostradamus: {'City Hunter: Ai to Shukumei no Magnum': 0.8, 'Lupin III: Lupin vs. Fukusei-ningen': 1.0, 'City Hunter: Hyakuman Dollar no Inbou': 0.8, 'Lupin III: Babylon no Ougon Densetsu': 1.0, 'City Hunter: Bay City Wars': 0.8, 'Lupin III: Fuuma Ichizoku no Inbou': 1.0, 'Lupin III: Dead or Alive': 1.0}
+Lupin III: Russia yori Ai wo Komete: {}
+Lupin III: Hemingway Paper no Nazo: {'Lupin III: Alcatraz Connection': 0.8, 'Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori': 1.0, 'Lupin III: Walther P38': 1.0, "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days": 1.0, 'Lupin III: Honoo no Kioku - Tokyo Crisis': 1.0, 'Lupin III: Napoleon no Jisho wo Ubae': 1.0, 'Lupin III: Otakara Henkyaku Daisakusen!!': 1.0, 'Lupin III: $1 Money Wars': 1.0, 'City Hunter: The Secret Service': 0.8, 'Lupin III: Episode 0 "First Contact"': 1.0}
+Lupin III: $1 Money Wars: {'Lupin III: Hemingway Paper no Nazo': 1.0, 'Lupin III: Honoo no Kioku - Tokyo Crisis': 1.0, 'Lupin III: Twilight Gemini no Himitsu': 0.8, 'Lupin III: Walther P38': 1.0, 'Lupin III: Bye Bye Liberty - Kiki Ippatsu!': 1.0}
+Lupin III: Napoleon no Jisho wo Ubae: {'Lupin III: Alcatraz Connection': 0.8, 'Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori': 1.0, 'Lupin III: Hemingway Paper no Nazo': 1.0, 'Lupin III: Nusumareta Lupin': 1.0, 'Lupin III: Lupin Ansatsu Shirei': 1.0, 'Lupin III: Walther P38': 1.0}
+Lupin III: Otakara Henkyaku Daisakusen!!: {'Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori': 1.0, 'Lupin III: Hemingway Paper no Nazo': 1.0, 'Lupin III: Bye Bye Liberty - Kiki Ippatsu!': 1.0}
+Lupin III: Part II: {}
+Lupin III: Part III: {}
+Lupin III: Ikiteita Majutsushi: {}
+Lupin III: Pilot Film (1978): {'City Hunter: Hyakuman Dollar no Inbou': 0.8, 'Lupin III: Cagliostro no Shiro': 0.83, 'City Hunter: Ai to Shukumei no Magnum': 0.8, 'Lupin III: Fuuma Ichizoku no Inbou': 1.0, 'Lupin III: Lupin vs. Fukusei-ningen': 1.0}
+Lupin III: Nusumareta Lupin: {'Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori': 1.0, 'Lupin III: Bye Bye Liberty - Kiki Ippatsu!': 1.0, 'Lupin III: Napoleon no Jisho wo Ubae': 1.0}
+Lupin III: Cagliostro no Shiro: {'Lupin III: Pilot Film (1978)': 0.83, 'Lupin III: Dead or Alive': 0.83}
+Lupin III: Ai no Da Capo - Fujiko's Unlucky Days: {'Lupin III: Alcatraz Connection': 0.8, 'Lupin III: Hemingway Paper no Nazo': 1.0, 'Lupin III: Episode 0 "First Contact"': 1.0}
+Lupin III: Fuuma Ichizoku no Inbou: {'Lupin III: Pilot Film (1978)': 1.0, 'Lupin III: Kutabare! Nostradamus': 1.0, 'Lupin III: Babylon no Ougon Densetsu': 1.0, 'City Hunter: Ai to Shukumei no Magnum': 0.8, 'City Hunter: Hyakuman Dollar no Inbou': 0.8}
+Lupin III: Babylon no Ougon Densetsu: {'City Hunter: Hyakuman Dollar no Inbou': 0.8, 'Lupin III: Lupin vs. Fukusei-ningen': 1.0, 'City Hunter: Bay City Wars': 0.8, 'Lupin III: Kutabare! Nostradamus': 1.0, 'Lupin III: Fuuma Ichizoku no Inbou': 1.0, 'Lupin III: Dead or Alive': 1.0}
+Lupin III: Harimao no Zaihou wo Oe!!: {'Lupin III: Alcatraz Connection': 0.8, 'Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori': 1.0}
+Lupin III: Lupin vs. Fukusei-ningen: {'City Hunter: Ai to Shukumei no Magnum': 0.8, 'Lupin III: Pilot Film (1978)': 1.0, 'Lupin III: Babylon no Ougon Densetsu': 1.0, 'Lupin III: Kutabare! Nostradamus': 1.0, 'Lupin III: Dead or Alive': 1.0}
+Lupin III: Twilight Gemini no Himitsu: {'Lupin III: $1 Money Wars': 0.8, 'Lupin III: Bye Bye Liberty - Kiki Ippatsu!': 0.8, 'Pokemon Crystal: Raikou Ikazuchi no Densetsu': 0.8, 'Lupin III: Walther P38': 0.8, 'Lupin III: Honoo no Kioku - Tokyo Crisis': 0.8}
+Lupin III: Honoo no Kioku - Tokyo Crisis: {'Lupin III: Lupin Ansatsu Shirei': 1.0, 'Lupin III: Hemingway Paper no Nazo': 1.0, 'Lupin III: $1 Money Wars': 1.0, 'Lupin III: Bye Bye Liberty - Kiki Ippatsu!': 1.0, 'Lupin III: Twilight Gemini no Himitsu': 0.8}
+Lupin III: Lupin Ansatsu Shirei: {'Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori': 1.0, 'Lupin III: Honoo no Kioku - Tokyo Crisis': 1.0, 'Lupin III: Napoleon no Jisho wo Ubae': 1.0, 'City Hunter: The Secret Service': 0.8}
+Lupin III: Walther P38: {'Lupin III: Alcatraz Connection': 0.8, 'Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori': 1.0, 'Lupin III: Hemingway Paper no Nazo': 1.0, 'Lupin III: $1 Money Wars': 1.0, 'Lupin III: Napoleon no Jisho wo Ubae': 1.0, 'City Hunter: The Secret Service': 0.8, 'Lupin III: Episode 0 "First Contact"': 1.0, 'Lupin III: Twilight Gemini no Himitsu': 0.8}
+Ninja Mono: {}
+Ginga Tetsudou no Yoru: {}
+Alexander Senki: {}
+Sol Bianca: {'Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo': 0.8, 'eX-Driver': 0.8, 'Appleseed': 1.0, 'Maps': 0.8, 'Queen Emeraldas': 1.0, 'Armitage III': 0.8, 'Change!! Getter Robo: Sekai Saigo no Hi': 0.8, 'Macross II: Lovers Again': 1.0}
+Sol Bianca: Taiyou no Fune: {}
+Mach GoGoGo: {}
+Hyakujuu-Ou GoLion: {}
+Brigadoon: Marin to Melan: {}
+Shuranosuke Zanmaken: Shikamamon no Otoko: {}
+The Samurai: {'Kujibiki Unbalance': 1.0}
+Maison Ikkoku: {}
+Kemonozume: {}
+Makai Tenshou: {}
+L/R: Licensed by Royal: {}
+Key the Metal Idol: {'Sentou Yousei Yukikaze': 0.83}
+Uchuu no Kishi Tekkaman: {}
+Uchuu no Kishi Tekkaman Blade: {}
+Uchuu no Kishi Tekkaman Blade II: {'Queen Emeraldas': 0.8}
+Memories: {}
+Hakaima Sadamitsu: {}
+Hakugei Densetsu: {}
+Baoh Raihousha: {'Black Magic M-66': 1.0, 'Shin Getter Robo tai Neo Getter Robo': 1.0}
+Monster Farm: Enbanseki no Himitsu: {'Legendz: Yomigaeru Ryuuou Densetsu': 0.8, 'Pokemon Advanced Generation': 0.8}
+City Hunter: {}
+City Hunter 2: {}
+City Hunter 3: {}
+City Hunter '91: {}
+City Hunter: Ai to Shukumei no Magnum: {'Lupin III: Lupin vs. Fukusei-ningen': 0.8, 'Lupin III: Pilot Film (1978)': 0.8, 'Lupin III: Kutabare! Nostradamus': 0.8, 'Lupin III: Fuuma Ichizoku no Inbou': 0.8}
+City Hunter: Bay City Wars: {'Lupin III: Babylon no Ougon Densetsu': 0.8, 'Lupin III: Kutabare! Nostradamus': 0.8, 'Lupin III: Dead or Alive': 0.8}
+City Hunter: Hyakuman Dollar no Inbou: {'Lupin III: Pilot Film (1978)': 0.8, 'Lupin III: Babylon no Ougon Densetsu': 0.8, 'Lupin III: Kutabare! Nostradamus': 0.8, 'Lupin III: Fuuma Ichizoku no Inbou': 0.8}
+City Hunter: The Secret Service: {'Lupin III: Hemingway Paper no Nazo': 0.8, 'Lupin III: Bye Bye Liberty - Kiki Ippatsu!': 0.8, 'Lupin III: Lupin Ansatsu Shirei': 0.8, 'Lupin III: Walther P38': 0.8, 'Lupin III: Episode 0 "First Contact"': 0.8}
+City Hunter: Goodbye My Sweetheart: {}
+City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo: {'Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi': 1.0}
+Sky Girls OVA: {}
+Urusei Yatsura: Haru da, Tobidase!: {}
+D.Gray-man: {'Pokemon Diamond & Pearl': 0.8}
+Master Keaton: {}
+Youma: {}
+Akachan to Boku: {}
+Kodomo no Omocha (TV): {}
+.hack//Unison: {'Mahou Shoujo Pretty Sammy Specials': 0.8}
+Area 88: {}
+Renkin San-kyuu Magical? Pokaan Specials: {}
+Ginga Tetsudou Monogatari: {}
+Ginga Tetsudou 999: {}
+Project ARMS: {}
+Project ARMS: The 2nd Chapter: {}
+Darkside Blues: {}
+Maetel Legend: {'Future GPX Cyber Formula Saga': 1.0}
+Fushigi no Kuni no Miyuki-chan: {}
+Aru Machi Kado no Monogatari: {}
+Black Blood Brothers: {'Pokemon Diamond & Pearl': 0.8}
+MaMa: {'Imouto de Ikou!': 1.0, 'Inma Daitoshi: Beast City': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'Yakin Byoutou Ni': 1.0, 'Kao no nai Tsuki': 1.0, 'Cool Devices': 1.0, 'Yakin Byoutou': 1.0, 'Pure Mail': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Teizokurei Daydream: {}
+Kaleido Star: Good da yo! Goood!!: {'Netrun-mon the Movie': 1.0, 'Cosplay Complex: Extra Identification': 1.0}
+Mahou Shoujo Pretty Sammy (1996): {}
+Mahou Shoujo Pretty Sammy Specials: {'.hack//Unison': 0.8}
+Macross Flash Back 2012: {'Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai': 1.0, 'Future GPX Cyber Formula Sin': 1.0, 'Future GPX Cyber Formula Saga': 1.0}
+Detective Conan Movie 09: Strategy Above the Depths: {'Detective Conan Movie 05: Countdown to Heaven': 1.0, 'Detective Conan Movie 07: Crossroad in the Ancient Capital': 1.0}
+Detective Conan Movie 10: Requiem of the Detectives: {}
+Sci-fi Harry: {}
+Mamotte! Lollipop: {}
+Imouto de Ikou!: {'MaMa': 1.0, 'Yakin Byoutou Ni': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Shintaisou: Shin': 1.0, 'Gakuen: Chijoku no Zushiki': 1.0, 'Shintaisou: Kari': 1.0, 'Inma Daitoshi: Beast City': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Blood Royale': 1.0, 'Tsumamigui': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Gakuen: Chijoku no Zushiki: {'Mizuiro': 1.0, 'MaMa': 1.0, 'Yakin Byoutou Ni': 1.0, 'Imouto de Ikou!': 1.0, 'Blood Royale': 1.0, 'Kao no nai Tsuki': 1.0, 'One: Kagayaku Kisetsu e - True Stories': 1.0, 'Injuu Gakuen La Blue Girl': 1.0, 'Tsumamigui': 1.0, 'Yakin Byoutou': 1.0, 'Pure Mail': 1.0}
+Court no Naka no Tenshi-tachi: {}
+Kaette Kita Court no Naka no Tenshi-tachi: {'MaMa': 1.0, 'Uba': 1.0, 'Blood Royale': 1.0, 'Kao no nai Tsuki': 1.0, 'Inma Daitoshi: Beast City': 1.0, 'Ai Shimai 2: Futari no Kajitsu': 1.0, 'Shintaisou: Kari': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Shintaisou: Shin': 1.0, 'Tsumamigui': 1.0}
+UFO Princess Valkyrie 3: Seiresetsu no Hanayome: {'UFO Princess Valkyrie 4: Toki to Yume to Ginga no Utage': 1.0}
+Sentou Yousei Shoujo Tasukete! Mave-chan: {'Kidou Keisatsu Patlabor: New OVA': 1.0}
+Kirarin☆Revolution: {}
+Silent Möbius: {}
+Black Lagoon: The Second Barrage: {'Souten no Ken': 1.0}
+Black Jack: {}
+Black Jack the Movie: {}
+Fuujin Monogatari: {}
+Pokemon Crystal: Raikou Ikazuchi no Densetsu: {'Lupin III: Alcatraz Connection': 0.8, 'Lupin III: Twilight Gemini no Himitsu': 0.8}
+Pokemon Movie 08: Mew to Hadou no Yuusha Lucario: {}
+Pokemon: Senritsu no Mirage Pokemon: {}
+Bishoujo Yuugekitai Battle Skipper: {'Dominion': 1.0, 'Kidou Keisatsu Patlabor: New OVA': 1.0, 'Stratos 4 Advance Kanketsu-hen': 1.0}
+De:vadasy: {}
+Kanon (2006): {}
+Shakugan no Shana: Koi to Onsen no Kougai Gakushuu!: {}
+Suki na Mono wa Suki Dakara Shou ga Nai!!: {}
+Ai Tenshi Densetsu Wedding Peach: {}
+Futari wa Precure: Splash☆Star: {}
+Death Note: {}
+Busou Renkin: {}
+Genshi Shounen Ryuu: {}
+Pumpkin Scissors: {}
+Touch: Cross Road - Kaze no Yukue: {}
+Touch: Miss Lonely Yesterday - Are kara, Kimi wa...: {}
+Souten no Ken: {'Black Lagoon: The Second Barrage': 1.0}
+Brain Powerd: {}
+Yoake Mae yori Ruriiro na: Crescent Love: {}
+Super Robot Taisen OG The Animation: {'Soukihei MD Geist 2: Death Force': 1.0, 'Psychic Force': 1.0}
+Negima!?: {}
+Obake no Q-tarou: {}
+Shin Taketori Monogatari: 1000-nen Joou: {}
+1000-nen Joou: Queen Millennia: {}
+Attack No.1: {}
+Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita: {}
+Queen Emeraldas: {'Sol Bianca': 1.0, 'Uchuu no Kishi Tekkaman Blade II': 0.8}
+Asatte no Houkou.: {}
+Tokimeki Memorial: Only Love: {}
+Kikoushi Enma: {}
+Shounen Onmyouji: {}
+Yarima Queen: {}
+Shijou Saikyou no Deshi Kenichi: {'Katekyo Hitman Reborn!': 1.0}
+Choujin Gakuen Gowcaizer: The Voltage Fighters: {'Kakugo no Susume': 0.8}
+Lovedol: Lovely Idol: {}
+Yamato Nadeshiko Shichihenge♥: {}
+Magic Knight Rayearth II: {'Fushigi Yuugi': 0.8}
+Pokemon Advanced Generation: {'Majutsushi Orphen': 0.8, 'Monster Farm: Enbanseki no Himitsu': 0.8, 'Dragon Ball Z': 0.8}
+Pokemon Diamond & Pearl: {'Black Blood Brothers': 0.8, 'Legendz: Yomigaeru Ryuuou Densetsu': 0.8, 'D.Gray-man': 0.8}
+Koukaku Kidoutai: Stand Alone Complex - Solid State Society: {}
+Kaitou Saint Tail: {}
+Sumomomo Momomo: Chijou Saikyou no Yome: {}
+Otome wa Boku ni Koishiteru: {}
+Happiness!: {'Kujibiki♥Unbalance': 1.0, 'Mamoru-kun ni Megami no Shukufuku wo!': 1.0}
+Ghost Hunt: {'Jigoku Shoujo Futakomori': 1.0}
+Jungle Taitei: {}
+Kishin Douji Zenki: {}
+Get Ride! AMDriver: {}
+Code Geass: Hangyaku no Lelouch: {}
+Bakumatsu Kikansetsu Irohanihoheto: {}
+Taiho Shichau zo: {'Haru no Ashioto The Movie: Ourin Dakkan': 1.0}
+Koisuru Tenshi Angelique: Kokoro no Mezameru Toki: {}
+Kiniro no Corda: Primo Passo: {'Gift: Eternal Rainbow': 1.0, 'Hataraki Man': 1.0}
+Mouryou Senki Madara: {}
+Gift: Eternal Rainbow: {'Kiniro no Corda: Primo Passo': 1.0}
+Submarine 707R: {'Herlock Saga: Nibelung no Yubiwa': 0.8, 'Maps': 0.8, 'Mutant Turtles: Choujin Densetsu-hen': 0.8}
+009-1: {}
+Stratos 4 Advance Kanketsu-hen: {'Puni Puni☆Poemii': 1.0, 'Dominion': 1.0, 'Bishoujo Yuugekitai Battle Skipper': 1.0, 'New Dominion Tank Police': 1.0}
+Spectral Force: {}
+Aoi Umi no Tristia: {}
+Tenpou Ibun: Ayakashi Ayashi: {}
+Mamoru-kun ni Megami no Shukufuku wo!: {'Happiness!': 1.0}
+Bartender: {}
+Legendz: Yomigaeru Ryuuou Densetsu: {'Monster Farm: Enbanseki no Himitsu': 0.8, 'Dragon Ball GT': 0.8, 'Pokemon Diamond & Pearl': 0.8}
+Kujibiki♥Unbalance: {'Happiness!': 1.0}
+Hataraki Man: {'Kiniro no Corda: Primo Passo': 1.0}
+Azumanga Web Daiou: {}
+Jigoku Shoujo Futakomori: {'Ghost Hunt': 1.0}
+Inma Daitoshi: Beast City: {'Shintaisou: Kari': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Shintaisou: Shin': 1.0, 'Ai Shimai 2: Futari no Kajitsu': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'MaMa': 1.0, 'Yakin Byoutou Ni': 1.0, 'Imouto de Ikou!': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'Yakin Byoutou': 1.0}
+Arcade Gamer Fubuki: {}
+Panyo Panyo Di Gi Charat: {}
+Casshern: Robot Hunter: {}
+Eat-Man '98: {}
+Galaxy Angel Rune: {}
+Red Garden: {}
+Soukou no Strain: {}
+Super Robot Taisen OG: Divine Wars: {}
+Katekyo Hitman Reborn!: {'Shijou Saikyou no Deshi Kenichi': 1.0}
+Kekkaishi: {}
+Venus Versus Virus: {}
+Salaryman Kintarou: {}
+Mai-Otome Zwei: {'Soujuu Senshi Psychic Wars': 1.0}
+Galerians: Rion: {}
+Jikuu Ihoujin Kyoko: Chocola ni Omakase!: {'Ojamajo Doremi Na-i-sho': 1.0}
+Captain Tsubasa: Road to 2002: {}
+Massugu ni Ikou.: {}
+Soreyuke! Uchuu Senkan Yamamoto Youko (1999): {}
+Negima!? Haru Special!?: {'Futari Ecchi': 0.8, 'Denshin Mamotte Shugogetten': 0.8}
+Maps: {'Project A-Ko 3: Cinderella Rhapsody': 0.8, 'Cyber City Oedo 808': 0.8, 'Sol Bianca': 0.8, 'Macross Dynamite 7': 1.0, 'Submarine 707R': 0.8, 'Project A-Ko 2: Daitokuji Zaibatsu no Inbou': 0.8}
+Haru no Ashioto The Movie: Ourin Dakkan: {'Taiho Shichau zo': 1.0}
+Kai Doh Maru: {'Sweat Punch': 1.0}
+G-On Riders: {}
+To Heart 2 Special: {}
+Soul Link Special: {}
+Genma Taisen: {'Kidou Senshi Gundam III: Meguriai Sora-hen': 0.83, 'Odin: Koushi Hansen Starlight': 0.83}
+Choushin Hime Dangaizer 3: {'VS Knight Lamune & 40 Fresh': 0.8}
+Maou Dante: {}
+Devilman Lady: {}
+Yousei Hime Ren: {'Slayers Specials': 1.0}
+Koukyoushihen Eureka Seven: Kinkyuu Tokuban Navigation ray=out: {}
+Shintaisou: Shin: {'Inma Daitoshi: Beast City': 1.0, 'Imouto de Ikou!': 1.0, 'Blood Royale': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Shintaisou: Kari': 1.0, 'Ai Shimai 2: Futari no Kajitsu': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Cool Devices': 1.0, 'Tsumamigui': 1.0, "Nikutai Ten'i": 1.0, 'Yakin Byoutou': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Shintaisou: Kari: {'Inma Daitoshi: Beast City': 1.0, 'Imouto de Ikou!': 1.0, 'Kao no nai Tsuki': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'One: Kagayaku Kisetsu e - True Stories': 1.0, 'Injuu Gakuen La Blue Girl': 1.0, 'Shintaisou: Shin': 1.0, 'Tsumamigui': 1.0, 'Yakin Byoutou': 1.0}
+Ai Shimai: Futari no Kajitsu: {'Inma Daitoshi: Beast City': 1.0, 'Uba': 1.0, 'Yakin Byoutou Ni': 1.0, 'Imouto de Ikou!': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Ai Shimai 2: Futari no Kajitsu': 1.0, 'Kao no nai Tsuki': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'Shintaisou: Shin': 1.0, "Nikutai Ten'i": 1.0, 'Yakin Byoutou': 1.0, 'Yakin Byoutou San': 1.0, 'Pure Mail': 1.0}
+Ai Shimai 2: Futari no Kajitsu: {'Inma Daitoshi: Beast City': 1.0, 'Blood Royale': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Kaette Kita Court no Naka no Tenshi-tachi': 1.0, 'Ai Shimai Tsubomi... Kegashite Kudasai': 1.0, 'Shintaisou: Shin': 1.0, 'Yakin Byoutou': 1.0, 'Yakin Byoutou San': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Ai Shimai Tsubomi... Kegashite Kudasai: {'Inma Daitoshi: Beast City': 1.0, 'Imouto de Ikou!': 1.0, 'Ai Shimai: Futari no Kajitsu': 1.0, 'Kao no nai Tsuki': 1.0, 'Ai Shimai 2: Futari no Kajitsu': 1.0, 'Injuu Gakuen La Blue Girl': 1.0, 'Shintaisou: Shin': 1.0, 'Bible Black': 1.0, 'Tsumamigui': 1.0, 'Yakin Byoutou': 1.0, 'Yakin Byoutou San': 1.0, 'Injuu Gakuen La☆Blue Girl: Fukkatsu-hen': 1.0}
+Kaze to Ki no Uta Sanctus: Sei Naru Kana: {'Seikimatsu★Darling': 0.8}
+Peter Pan no Bouken: {}
+Boku no Pico: {}
+Angel's Feather: {}
+Iron Virgin Jun: {}
+Sugar Sugar Rune: {}
+Sailor Victory: {'Macross Dynamite 7': 0.8, 'Project A-Ko 4: Final': 1.0, 'Project A-Ko 2: Daitokuji Zaibatsu no Inbou': 1.0}
+Princess Rouge: {}
+Herlock Saga: Nibelung no Yubiwa: {'Iria: Zeiram The Animation': 0.8, 'Submarine 707R': 0.8, 'Macross II: Lovers Again': 0.8}
+Kakugo no Susume: {'Choujin Gakuen Gowcaizer: The Voltage Fighters': 0.8}
+UFO Princess Valkyrie 4: Toki to Yume to Ginga no Utage: {'UFO Princess Valkyrie 3: Seiresetsu no Hanayome': 1.0}
+Uchuu Senkan Yamato: {}
