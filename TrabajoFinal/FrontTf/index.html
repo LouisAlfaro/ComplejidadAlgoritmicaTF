@@ -273,7 +273,7 @@
             
             const searchTerm = document.getElementById('anime-search').value;
             console.log('Formulario enviado!');
-            fetch(`http://127.0.0.1:8000/anime/name/${encodeURIComponent(searchTerm)}`, {
+            fetch(`http://3.85.123.57:8000/anime/name/${encodeURIComponent(searchTerm)}`, {
                 method: 'GET',
                 headers: {
                     'Content-Type': 'application/json',
@@ -291,7 +291,7 @@
         document.getElementById('idSearchForm').addEventListener('submit', function (event) {
             event.preventDefault();
             const animeId = document.getElementById('anime-id-search').value;
-            fetch(`http://127.0.0.1:8000/anime/id/${encodeURIComponent(animeId)}`)
+            fetch(`http://3.85.123.57:8000/anime/id/${encodeURIComponent(animeId)}`)
                 .then(response => response.json())
                 .then(anime => mostrarCardAnime(anime))
                 .catch(error => console.error('Error al buscar el anime por ID:', error));
@@ -353,7 +353,7 @@
     const anime2 = document.getElementById('anime2').value;
 
     // Construir la URL con ambos nombres de animes
-    const url = `http://127.0.0.1:8000/anime/two_recomend/${encodeURIComponent(anime1)}/${encodeURIComponent(anime2)}`;
+    const url = `http://3.85.123.57:8000/anime/two_recomend/${encodeURIComponent(anime1)}/${encodeURIComponent(anime2)}`;
 
     console.log('Formulario enviado!');
     fetch(url, {
@@ -461,7 +461,7 @@ function mostrarCardAnimeRecomendation(anime) {
     const searchTerm = document.getElementById('anime-searchGenderForm').value;
     console.log('Formulario enviado! Término de búsqueda por género:', searchTerm);
 
-    fetch(`http://127.0.0.1:8000/anime/genre/${encodeURIComponent(searchTerm)}`, {
+    fetch(`http://3.85.123.57:8000/anime/genre/${encodeURIComponent(searchTerm)}`, {
         method: 'GET',
         headers: {
             'Content-Type': 'application/json',
